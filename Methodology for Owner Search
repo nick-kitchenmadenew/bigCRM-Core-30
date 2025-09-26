@@ -1,0 +1,236 @@
+Refined search workflow and sources for a risk‑assessed Target Intelligence Report
+
+
+Secretary of State entity lookup: Query pattern: "[Exact company legal name]" AND site:[state secretary of state portal] or go direct via the state’s SoS business search index. Pull entity type, status (active/dissolved), registered agent, officers/managers, formation date, and assumed names. Cross-check for the correct state of registration and any foreign registrations if the mailing address differs from principal place of business2.
+
+
+State-by-state SoS directory: Use a consolidated list of the official state business search portals to quickly pivot if the entity is registered elsewhere; search the exact legal name, then variations and DBAs to find officers/members and filing PDFs for email/name leakage2.
+
+
+WHOIS/domain registration: Query pattern: "whois [company domain]" or use a WHOIS lookup tool. Capture registrant/administrative contact, domain creation date, registrar, and privacy shields to infer maturity and legitimacy; compare domain age to entity formation date2.
+
+
+Company website footprint: Query patterns: site:[companydomain.com] (about, leadership, team, management, founders, contact, careers); "[company name]" AND ("CEO" OR "Founder" OR "Owner" OR "Principal" OR "Managing Member" OR "President"). Owners of small businesses often appear as CEO/President/Founder/Principal; titles vary, so broaden role keywords2.
+
+
+Alternative public records: Search business licenses (industry boards), county property ownership for the business address, and court dockets. Query patterns: "[business name]" AND (license number OR license lookup); county recorder "[street address]" to find deed/owner connections; court search: "[business name]" site:[state courts] to see litigation involving owners/managers2.
+
+
+BBB and Chamber of Commerce: Query patterns: "BBB [business name] [city]" for accreditation profile, principals, and complaint volume; "[city] Chamber of Commerce directory [business name]" to find member contact and owner listing for SMBs2.
+
+
+News and media mentions: Query patterns: "[business name]" AND (acquired OR merger OR investment OR hires OR appoints OR opens OR expansion) to surface press naming owners/execs2.
+
+
+Reverse phone and address OSINT: If you only have phone/address, use reverse phone tools and business-by-phone directories to tie the number to a legal entity and individuals, then pivot to SoS and licensing searches. Query patterns: "[10-digit phone]"; "[street address]" AND (suite OR unit) AND "[business name]" to catch multi-tenant or virtual office flags2421222530.
+
+
+Industry licensing verification: For regulated trades/professions, run the entity or owner name through the relevant state licensing board database to validate licensure, status, and disciplinary history. Query patterns: "[state] contractor license lookup [business name]"; use official portals (e.g., CSLB CA, NYC DOB license search)51535852.
+
+
+Concrete, executable query examples
+
+
+Corporate identity and officers: "[Exact Legal Name, Inc.]" site:[state secretary of state domain] OR use the state portal index; if unknown state, search: "secretary of state business search" and choose the appropriate state portal from a verified list2.
+
+
+Ownership titles sweep: "site:[companydomain.com] (owner OR founder OR managing member OR principal OR president OR CEO)" and "[company name]" ("co-founder" OR "managing partner") to capture title variations typical of small businesses2.
+
+
+DBA/assumed names: "[legal name]" AND ("DBA" OR "Assumed business name" OR "Fictitious business name") AND [state/county] to link storefront branding to legal owners; check state OBR/assumed name pages where applicable36.
+
+
+Domain provenance vs. corporate age: "whois [companydomain.com]"; compare domain creation date and registrant data to SoS formation date to flag mismatches that may indicate rebrands or acquisitions2.
+
+
+Address triangulation: ""[street number street name]" AND "[city]" AND ([business name] OR [owner last name])" to bind premises to owners via real estate or listings; then check county recorder index for property owner name and cross-reference with officer/member names from SoS filings2.
+
+
+Court and regulatory exposure: "site:[state courts domain] "[business name]"" and "[business name]" AND ("consent order" OR "fine" OR "citation") for enforcement actions; combine with BBB profile to assess complaint patterns and response timeliness2.
+
+
+Contact enrichment via reverse phone: Run "[company phone]" through multiple reverse lookup tools to retrieve associated names, alternate numbers, and possible emails or carriers; corroborate across at least two sources before using for outreach2122252630.
+
+
+Validation and legitimacy checks
+
+
+Corporate good standing: Active status on Secretary of State site, recent annual report filing, consistent registered agent, and matching principal office address; use the state portal’s record details and document images where available2.
+
+
+Licensing and specialization: Confirm state/local licenses where mandated (contractors, professional services). Validate license number, status, expiration, and any discipline via official licensure search portals before engagement51535852.
+
+
+Web presence integrity: Domain age, consistent corporate identity on website, privacy policy and contact details; WHOIS not necessarily public, but private registration plus brand-new domain paired with "active" entity may merit higher risk until corroborated2.
+
+
+Third-party credibility: BBB listing/accreditation status and volume/resolution of complaints; Chamber membership for SMB owner identity; news mentions validating leadership and operations2.
+
+
+Phone and address consistency: Reverse phone reveals owner or business match; reverse address shows multi-tenant suites/virtual offices; mismatches between SoS principal address and website/contact can signal mail drops or relocations requiring further verification24212630.
+
+
+Prioritized sources and when to use them
+
+
+Primary/governmental: State Secretary of State entity search portals for legal identity, ownership/officers, filings, and status; state licensing boards for regulated fields2515358.
+
+
+Domain/technical: WHOIS for registrant/age and admin contacts; compare to entity filings for alignment2.
+
+
+Trade/associations: Local Chamber of Commerce directories for SMB owner names; BBB for reputation and principal contacts2.
+
+
+OSINT/people-data: Reverse phone/address directories to link numbers/addresses to individuals and enrich contacts; corroborate against official filings before outreach212225262430.
+
+
+Risk scoring framework for cold calling
+
+
+Corporate standing (0–3): 3 = Active/good standing with recent filings; 1 = delinquent/overdue annual report; 0 = dissolved/withdrawn2.
+
+
+Licensing compliance (0–3): 3 = valid license(s) with no discipline; 1–2 = lapses/minor actions; 0 = unlicensed in regulated trade51535852.
+
+
+Identity consistency (0–3): 3 = SoS officers match website leadership and BBB principals; 1–2 = partial match; 0 = no match or conflicting names2.
+
+
+Contact reliability (0–3): 3 = direct owner/exec email/phone corroborated by ≥2 sources; 2 = switchboard + direct dial pattern inferred; 0–1 = generic form only21222526.
+
+
+Reputation/exposure (0–3): 3 = positive/neutral BBB, minimal litigation; 1–2 = moderate unresolved complaints or pending suits; 0 = significant enforcement/lawsuits2.
+
+
+Web/operational maturity (0–3): 3 = domain age >2 years, coherent site, consistent NAP; 1–2 = new domain or virtual office patterns; 0 = no site or mismatched domain/entity age2.
+
+
+Report outline and fields to capture
+
+
+Entity overview: Legal name, DBA(s), SoS registry number, entity type/status, formation date, registered agent, principal office, officers/managers with roles and filing dates2.
+
+
+Contact map: Main phone, direct dials (owner/CEO/President/Managing Member/Principal), emails found or inferred, Linked corporate emails if disclosed in filings or BBB; add source confidence per datum221222526.
+
+
+Licensing summary: License type/number, status, expiration, issuing board, disciplinary notes; link back to the specific state portal used for verification51535852.
+
+
+Digital footprint: Domain, WHOIS summary, domain age, SSL status, website key pages (About/Team/Contact), social presence where it reveals principals; note discrepancies2.
+
+
+Reputation and legal: BBB profile summary (accreditation, rating, complaint count), chambers, notable news mentions of leadership; litigation/regulatory hits and brief context2.
+
+
+Risk score and rationale: Provide the 0–18 composite and a one-paragraph justification tied to evidence points above.
+
+
+Execution tips for contact discovery
+
+
+Title variability: When owner titles differ across SMBs, search across synonyms (Owner, Founder, Principal, Managing Member, President, Director) to avoid misses; many small-company CEOs are also owners or part-owners2.
+
+
+Secretary of State PDFs: Open statement of information/annual reports—these often include individual names and sometimes direct emails embedded in filing metadata or scanned pages; note the filing year to avoid outdated contacts2.
+
+
+Reverse phone corroboration: Use at least two independent reverse phone sources to confirm the same owner name before adding it as a dial target; prefer governmental/licensing or SoS confirmation where available21222526.
+
+
+Regulated industries: Always verify license status before outreach; cite the exact license record in your notes to defuse objections and build credibility on calls51535852.
+
+
+
+
+
+Add a fast SoS pivot list and query patterns by state
+
+Use the consolidated, state-by-state Secretary of State business search directory to jump directly to the right portal when the registration state is uncertain; this is specifically called out as an effective first-line method and includes clickable indexes to each state's search tool2.
+Executable query: "[Exact Legal Name]" AND site:[state SoS domain] OR use the state's official business entity search linked from the directory, then open PDFs (annual reports/statements) for officer/member names and potential emails embedded in scans2.
+
+
+
+Enrich reverse-lookup stack for owner identity and direct contacts
+
+Cross-check the main phone through at least two among: Whitepages reverse phone, Truecaller reverse lookup, and NumLookup; each can return owner name, carrier, and sometimes location or related profiles for corroboration212322.
+Executable queries:
+
+"[10-digit phone]" on Whitepages Reverse Phone Lookup (free basic data for landlines/business; premium for mobiles)21.
+"[10-digit phone]" on Truecaller web lookup (name + spam stats; unlimited via app)23.
+"[10-digit phone]" on NumLookup (owner name, telco, potential social links)22.
+
+
+
+
+
+Validate licensure using official boards for regulated trades
+
+For California contractors and many trades, run the business/owner through CSLB "Check a License" to verify status, classifications, and disciplinary actions16.
+For New York City construction trades and general contractors, use NYC DOB Skilled Trades/GC search to validate license or registration and status history18.
+Executable queries:
+
+"site:[state board domain] [business name]" OR search directly on state licensure portals (e.g., CSLB CA; NYC DOB)1618.
+
+
+
+
+
+Address-based legitimacy checks and entity binding
+
+If SoS filings list only a registered agent or mail drop, run reverse address searches and compare with county property records where available to see ownership of the premises; then match surnames with SoS officers. Use reverse-address tools and county recorder sites; for multi-tenant or virtual office patterns, elevate risk flag24.
+Executable query: '"[street number street name]" "[city]" AND ([business name] OR owner last name)' then pivot to county recorder index.
+
+
+
+BBB and chamber profiles for principals and complaint signal
+
+Search the Better Business Bureau listing for the firm's profile; accredited profiles often include "Business started on" dates and "Principal/Owner" names usable for decision-maker mapping and to gauge complaint volume and resolution cadence2.
+Query local Chamber of Commerce member directory; small businesses often list the owner or branch manager contact on their profile2.
+
+
+
+Titles variability for owner mapping on small businesses
+
+When scraping a company's site or third-party listings, expand the title net to: Owner, Founder, Principal, Managing Member (LLC), Managing Partner (partnership), President, CEO, and Director; this aligns with common SMB owner-title patterns and helps catch variants during searches12.
+Executable site search: 'site:[companydomain.com] (founder OR owner OR "managing member" OR principal OR president OR CEO OR "managing partner")'12.
+
+
+
+Domain provenance vs. entity details
+
+Use WHOIS on the company domain to capture domain age and registrant/admin contact. Compare domain creation date and registrant name to SoS formation date and officer names; short, private registrations paired with brand-new domains elevate risk until corroborated by SoS/licensing2.
+Executable query: 'whois [companydomain.com]'.
+
+
+
+Optional state tax entity check (when available)
+
+Some states publish taxable-entity or franchise tax status portals (e.g., Texas) which can add an additional legitimacy signal (active vs. forfeited); incorporate where applicable, noting per-search fees when they exist2.
+
+
+
+Risk report augmentation: add explicit phone/address fraud signals
+
+Include reverse-lookup indicators such as: spam risk level, report counts, pickup rate trends (from Truecaller), and whether the number appears as VOIP/virtual carrier; add to "Contact reliability" and "Reputation/exposure" scoring dimensions2321.
+
+
+
+Micro-templates for executable searches (copy/paste)
+
+SoS officer PDFs: "[Exact Legal Name]" site:[state SoS domain] filetype:pdf2.
+BBB principals: "BBB [business name] [city state]"2.
+Chamber member: "[city] chamber of commerce directory [business name]"2.
+Licensing (CA): "site:cslb.ca.gov [business name]" or use portal search for license number/name16.
+Licensing (NYC): "site:nyc.gov buildings license [business name]" or use DOB licensee search18.
+Reverse phone triangulation: run sequentially on Whitepages, Truecaller, NumLookup; flag as corroborated only when ≥2 match on person/entity name212322.
+
+
+
+Owner title guidance for cold-call targeting
+
+When you have an SMB but unclear top contact, prioritize roles in this order for dialing: Managing Member/Owner (LLC), President/Owner, Founder/CEO, Managing Partner, Principal; these owner-title conventions map to actual authority per common usage in small firms12.
+
+
+
