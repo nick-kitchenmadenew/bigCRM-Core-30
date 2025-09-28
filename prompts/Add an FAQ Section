@@ -1,50 +1,76 @@
-Add an FAQ Section
+Prompt: Add FAQ Section + Article Opportunities (Use Only Supplied URL)
 
-What I'm going to give you:
-Article URL – the page you must crawl and use as the only source of facts. [URL here]
+Instructions
+You will create an FAQ section for an article using only the content on the provided URL. Do not add information from other sources. Follow the steps and output format exactly.
 
-People Also Ask (PAA) question list – pulled from Google for the target keyword. [Paste PAA here]
-
-Target Keyword – [Target keyword]
+What I will provide you
+- Article URL: the only source of facts. Do not use outside information.
+- People Also Ask (PAA) Questions: copied from Google for the target keyword.
+- Target Keyword.
 
 Your tasks
-1 — Build the FAQ section
-Crawl the supplied URL and extract the article’s content.
+1) Build the FAQ section
+- Crawl the supplied URL and extract the article’s content.
+- For each PAA question:
+  - If the article directly or partially answers it, write a concise, authoritative answer (2–4 sentences) using only the article’s content (paraphrase is fine).
+  - If the article does not cover it, skip the question. Do not invent facts.
+- Aim for 5–10 solid Q&A pairs that reinforce the target keyword’s topic.
+- Deliver the FAQ block in clean HTML using this exact structure:
 
-For every PAA question provided, check if the answer already exists (even partially) in the article.
+<section id="faq">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Question 1?</summary>
+    <p>Answer that cites or paraphrases the article’s content.</p>
+  </details>
+  <!-- repeat for every included question -->
+</section>
 
-If it does → draft a concise, authoritative answer (2-4 sentences) using only information from the article.
+2) Identify follow-up article opportunities
+- From the answered FAQs, select any questions that deserve a full article (because the topic is broad or the answer was necessarily brief).
+- For each selected question, provide:
+  - Target Keyword Variant (the main phrase the new article should rank for)
+  - Click-worthy Title Tag (60 characters max)
+  - Suggested Outline (H1 + 3–6 H2/H3 headings)
+- Output this as a markdown table titled “Article Opportunities” directly beneath the FAQ block.
 
-If it doesn’t → skip that question. Do not invent new facts.
+3) List unanswered PAA questions
+- Beneath the “Article Opportunities” table, include a bulleted list titled “PAA Questions Not Answered” with the questions you skipped (verbatim).
 
-Format the finished FAQ block in clean HTML ready for pasting at the end of the article:
+Voice and tone
+- Professional, authoritative, and easy to understand.
+- No fluff. Answer customer-relevant concerns clearly.
+- Mirror the style and terminology of the source article where possible.
 
-<section id="faq"> <h2>Frequently Asked Questions</h2> <details> <summary>Question 1?</summary> <p>Answer that cites or paraphrases the article’s content.</p> </details> <!-- repeat for every included question --> </section>
+Quality rules
+- Use ONLY the provided URL as your source of truth.
+- If the article is vague on a point, keep the answer conservative and aligned with what’s stated.
+- Do not include prices, timelines, guarantees, or comparisons unless they appear in the article.
+- Keep answers focused on the PAA. Avoid extra commentary.
 
-Aim for 5-10 solid Q&A pairs that strengthen topical relevance around the target keyword.
+Final deliverable format (exact order)
+1) The HTML FAQ block
+2) “### Article Opportunities” markdown heading + table with columns:
+   - PAA Question | Target Keyword | Title Tag | Suggested Outline (H1 + H2/H3s)
+3) “PAA Questions Not Answered” bulleted list
 
-2 — Flag questions worth their own in-depth article
-From the FAQ you just wrote, pick any question that could support a full follow-up article (because the answer was brief or the topic is broad).
+What you’ll receive from me to start
+- Article URL – [paste here]
+- PAA Questions – [paste list here]
+- Target Keyword – [paste here]
 
-For each selected question, provide:
+Example (truncated)
+<section id="faq">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Are motorized pergolas waterproof?</summary>
+    <p>Most motorized pergolas feature interlocking louvers that form a watertight seal when fully closed, as explained in the article’s Weather Protection section.</p>
+  </details>
+</section>
 
-Target Keyword Variant – the main phrase the new article should rank for.
+### Article Opportunities
+| PAA Question | Target Keyword | Title Tag | Suggested Outline (H1 + H2/H3s) |
+|--------------|----------------|-----------|----------------------------------|
+| Are motorized pergolas waterproof? | waterproof motorized pergola | Are Motorized Pergolas Really Waterproof? | H1: Are Motorized Pergolas Waterproof?; H2: How Louver Seals Work; H2: Rainwater Drainage Systems; H2: Maintenance Tips |
 
-Click-worthy Title Tag (≤ 60 characters).
-
-Suggested Outline – H1 plus 3-6 H2/H3 headings.
-
-Output this as a markdown table titled “Article Opportunities” directly beneath the FAQ block.
-
-Output a list of PAA questions that were not answered beneath the "Article Opportunities"
-
-Output example (truncated)
-
-<section id="faq"> <h2>Frequently Asked Questions</h2> <details> <summary>Are motorized pergolas waterproof?</summary> <p>Most motorized pergolas feature interlocking louvers that form a watertight seal when fully closed, as noted in the article’s “Weather Protection” section.</p> </details> … </section> ### Article Opportunities | PAA Question | Target Keyword | Title Tag | Suggested Outline (H1 + H2s) | |--------------|---------------|-----------|------------------------------| | Are motorized pergolas waterproof? | waterproof motorized pergola | Are Motorized Pergolas Really Waterproof? | **H1:** Are Motorized Pergolas Waterproof?<br>**H2:** How Louver Seals Work<br>**H2:** Rainwater Drainage Systems<br>**H2:** Maintenance Tips for Leak-Free Performance |
-
-Voice & Tone
-Professional, authoritative, and easy to understand.
-
-No fluff; answer customers’ core concerns clearly.
-
-Stay consistent with the article’s existing style where possible.
+Reply back with the deliverables in the exact format above.
