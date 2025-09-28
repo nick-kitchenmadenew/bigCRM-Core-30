@@ -1,0 +1,50 @@
+Add an FAQ Section
+
+What I'm going to give you:
+Article URL – the page you must crawl and use as the only source of facts. [URL here]
+
+People Also Ask (PAA) question list – pulled from Google for the target keyword. [Paste PAA here]
+
+Target Keyword – [Target keyword]
+
+Your tasks
+1 — Build the FAQ section
+Crawl the supplied URL and extract the article’s content.
+
+For every PAA question provided, check if the answer already exists (even partially) in the article.
+
+If it does → draft a concise, authoritative answer (2-4 sentences) using only information from the article.
+
+If it doesn’t → skip that question. Do not invent new facts.
+
+Format the finished FAQ block in clean HTML ready for pasting at the end of the article:
+
+<section id="faq"> <h2>Frequently Asked Questions</h2> <details> <summary>Question 1?</summary> <p>Answer that cites or paraphrases the article’s content.</p> </details> <!-- repeat for every included question --> </section>
+
+Aim for 5-10 solid Q&A pairs that strengthen topical relevance around the target keyword.
+
+2 — Flag questions worth their own in-depth article
+From the FAQ you just wrote, pick any question that could support a full follow-up article (because the answer was brief or the topic is broad).
+
+For each selected question, provide:
+
+Target Keyword Variant – the main phrase the new article should rank for.
+
+Click-worthy Title Tag (≤ 60 characters).
+
+Suggested Outline – H1 plus 3-6 H2/H3 headings.
+
+Output this as a markdown table titled “Article Opportunities” directly beneath the FAQ block.
+
+Output a list of PAA questions that were not answered beneath the "Article Opportunities"
+
+Output example (truncated)
+
+<section id="faq"> <h2>Frequently Asked Questions</h2> <details> <summary>Are motorized pergolas waterproof?</summary> <p>Most motorized pergolas feature interlocking louvers that form a watertight seal when fully closed, as noted in the article’s “Weather Protection” section.</p> </details> … </section> ### Article Opportunities | PAA Question | Target Keyword | Title Tag | Suggested Outline (H1 + H2s) | |--------------|---------------|-----------|------------------------------| | Are motorized pergolas waterproof? | waterproof motorized pergola | Are Motorized Pergolas Really Waterproof? | **H1:** Are Motorized Pergolas Waterproof?<br>**H2:** How Louver Seals Work<br>**H2:** Rainwater Drainage Systems<br>**H2:** Maintenance Tips for Leak-Free Performance |
+
+Voice & Tone
+Professional, authoritative, and easy to understand.
+
+No fluff; answer customers’ core concerns clearly.
+
+Stay consistent with the article’s existing style where possible.
