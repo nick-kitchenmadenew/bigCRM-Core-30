@@ -1,0 +1,1883 @@
+- **title**: 2025-09-09 GBP Categories, Linking, Content AI
+- **tags**:
+
+- **url**: https://www.youtube.com/watch?v=HtcXItcvnBA
+- **is_live**: False
+- **duration**: 5318
+- **uploader**: bigCRM- Small Business Growth Interviews
+- **video_id**: HtcXItcvnBA
+- **age_limit**: 0
+- **categories**:
+  - People & Blogs
+- **channel_id**: UC43cx-oDhhQdBquUnfajoOg
+- **like_count**: 0
+- **view_count**: 0
+- **channel_url**: https://www.youtube.com/channel/UC43cx-oDhhQdBquUnfajoOg
+- **description**: Weekly AI SEO Community Call Summary
+
+📌 Executive Summary
+
+This weekly call focused on local SEO fundamentals, with extensive discussion about Google Business Profile optimization, internal/external linking strategies, and content creation workflows. The session provided practical guidance on category selection, schema implementation, and AI-powered content production processes.
+
+🔑 Key Takeaways
+
+
+
+
+
+Primary category selection is critical - choose based on what customers actually search for, not just what describes your business
+
+
+
+Internal linking should flow both up and down between category and service pages
+
+
+
+External authority links (to sites like Harvard, Forbes) should be included in most content at 1 per 500-700 words
+
+
+
+Local SEO success is measured by expanding your "green zone" on rank maps farther from your business address
+
+
+
+AI content workflows can produce ready-to-post articles in about 20 minutes with proper systems
+
+📊 Main Discussion Points
+
+Google Business Profile Categories
+
+
+
+
+
+HVAC contractors should often use "Air Conditioning Repair" as primary category instead of "HVAC Contractor"
+
+
+
+Use GMB Everywhere tool to research category popularity and competition
+
+
+
+Primary category determines what you rank for first - choose based on actual search behavior
+
+
+
+Secondary categories matter but can be easily lost if team members make unauthorized changes
+
+Linking Strategies
+
+
+
+
+
+Internal links: Homepage → Categories → Services (bidirectional linking recommended)
+
+
+
+External authority links: Include 2-3 links to high-authority sites (Harvard, Forbes, etc.) in most content
+
+
+
+These external links help reduce AI detection scores and improve indexing
+
+
+
+Chamber of Commerce and sponsorship links build trust signals with Google
+
+Content Creation Workflow
+
+
+
+
+
+AI content editor produces articles in ~20 minutes (3 per hour)
+
+
+
+Pricing: $30 for first 10 articles, then $15 each (equals $45/hour)
+
+
+
+Overseas support handles images, schema, and compression for $5/article
+
+
+
+Custom Claude projects created for each client to maintain consistency and avoid prohibited content
+
+Local SEO Fundamentals
+
+
+
+
+
+Three ranking factors: Proximity, Relevance (topical + geographical), and Trust
+
+
+
+Goal is expanding rank map coverage farther from business address
+
+
+
+Topical relevance achieved at 30-40% top-3 ranking, then shift to geographical content
+
+
+
+Service area businesses are much harder to rank than location-based businesses
+
+💡 Notable Q&A
+
+Q: Should I put FAQ sections on all Core 30 pages? A: About one-third of pages get FAQs - primarily GBP landing page, main category pages, and key service pages. This maintains content variety across the site.
+
+Q: How do I handle competitor analysis when results seem inconsistent? A: Local competitor analysis often misleads because ranking factors like goal completion (customer satisfaction) and historical performance aren't visible. Focus on your own metrics instead.
+
+Q: Can I use my home address for a Google Business Profile? A: Yes, home-based businesses can still be verified, though some users report increased difficulty. Avoid service area business designation as these are much harder to rank.
+
+Q: How many Facebook ad creatives should I test? A: Start simple - the original ad in the training outperformed all variations. Focus on cost per lead ($5 good for B2B) rather than click-through rates.
+
+🔮 Emerging Trends & Challenges
+
+
+
+
+
+Increased difficulty in GBP verification for home-based businesses
+
+
+
+Growing importance of AI content workflows in scaling operations
+
+
+
+Need for better tools to manage multi-location businesses and prevent unauthorized GBP changes
+
+
+
+Rising complexity in balancing AI efficiency with content quality and originality
+
+🛠 Tools & Resources Mentioned
+
+
+
+
+
+GMB Everywhere - for category research and competitor analysis
+
+
+
+Lead Snap - for GBP management and preventing unauthorized changes
+
+
+
+Local rank mapping tools for tracking geographical performance
+
+
+
+Zero GPT - for checking AI detection scores
+
+
+
+Claude (with custom projects) - for consistent client-specific content creation
+
+
+
+Screaming Frog - for technical site analysis
+- **upload_date**: 20250928
+- **uploader_id**: @bigCRM-SmallBusinessInterviews
+- **uploader_url**: https://www.youtube.com/@bigCRM-SmallBusinessInterviews
+- **comment_count**: 0
+- **is_transcript_available**: True
+- **user_transcript_languages**:
+
+- **generated_transcript_languages**:
+  - en
+
+0:02: Yeah, there's there's a bunch of stuff in there that you could opt into or opt out of.
+
+0:08: All right. Well, good afternoon everybody. Welcome. Welcome. Thank you, George, for that piece of advice. I was
+
+0:14: just apologizing to everyone for being a little bit tardy because of how many
+
+0:19: notetakers I had to kick out of the meeting, but we're here now. It is, of
+
+0:24: course, Tuesday, September 9th at 100 p.m. Central. It's
+
+0:30: 10:03. Like I said, I'm a little late. Um, so yeah, welcome, welcome everyone. Uh, we have a a fun-filled SEO Q&A
+
+0:39: session here. So, we'll go by the same rules we have the last few weeks. I think that's gone pretty well. If you
+
+0:45: have a question that you want that you don't need to speak for, that you don't
+
+0:51: wanna want or need uh to talk during the meeting for, go ahead, put it in the chat. I'll hit a bunch of those chat
+
+0:58: questions in between each hand raised question. And uh the hand raised questions, we'll do one at a time. I'll
+
+1:05: answer your question, but you only get the one. Once the one is answered, put
+
+1:10: your hand down. You can put it back up again. Otherwise, some poor people end up waiting like two hours to get their
+
+1:16: question answered. So, if you have multiple ones, no problem. We'll sit here and we'll answer as many as I can
+
+1:22: until it's time for me to go get my kids from school. Um, so yeah, if you have multiple ones, we'll just do one without
+
+1:28: any follow-up questions. And before we get started, I have to say that right now I am in an absolutely terrible mood
+
+1:36: because I was trying to get tickets to Ariana Grande. Uh, so I registered for the pre-sale and they completely sold
+
+1:43: out before I got even into the queue. Very sad. Um,
+
+1:49: very sad. But anyway, that's that's all I'll say about that. Uh, Lolita, how are
+
+1:55: you doing? What's going on? What you got for me? Um so I think I finished the core 30 but
+
+2:03: I am a little confused um on the internal linking so I just need to link
+
+2:11: the categories to the services and put this the categories on the front page and I don't have to do any external
+
+2:19: links in the category pages and the service pages right so so uh the internal links you
+
+2:26: got correct homepage links to the category page pages, category pages, links to their service pages, golden. If
+
+2:31: you have any additional topical content, uh then you would link the page that the
+
+2:38: topical content is supporting to that page. Right? So you have a service page
+
+2:44: for leaky faucets. Uh for whatever reason, you're not ranking for leaky faucets. So, you need more topical
+
+2:50: content. Then all of the topical content will be linked to from the leaky faucet
+
+2:56: and will link back up to the leaky faucet. The external links, we call them
+
+3:03: uh external authority links. These are going to be links in your content that go to like harvard.edu or Forbes.com.
+
+3:10: Wikipedia is a popular one, but please don't use Wikipedia for every single one. You got to mix it up. uh we put uh
+
+3:17: two to three of those. It's basically oneish per 500 to 700 words in pretty
+
+3:24: much all the content we produce. So category pages, service pages, uh blog
+
+3:29: articles. The only exception would be things like the privacy policy or like the about us, contact us, those we
+
+3:35: wouldn't put. But in almost every other scenario, including the homepage, we're going to put those authority links. Um,
+
+3:42: all of the testing that we've done, Google loves those authority links and
+
+3:47: putting links to authority relevant articles will help you rank faster. So,
+
+3:53: we put them in all over the place. It's also pretty fascinating because when you put those uh authority links in your
+
+4:02: percent AI written plummets on the zero GPT other checkers because AI when it
+
+4:08: writes content it doesn't usually put authority links in unless you very specifically ask it to. So that really
+
+4:14: helps the drop the percent uh AI also good. It also helps you get indexed. So
+
+4:20: we just put it in. Was that did that was that the question you had? Yes. Yes, it was expanded but yes. So
+
+4:28: the links for the authority links. So let's say for example the chamber of
+
+4:33: commerce. I am getting a chamber of commerce link. Do I put that link in
+
+4:38: each of the category pages and each of the services pages? So it would be a different link, right?
+
+4:45: It would be a different authority link. So, in one you might link to a Harvard article about
+
+4:51: leaky faucets, and another one you might link to a Forbes article about clogged
+
+4:56: toilets. And I know it sounds silly, but you can find these posts on these big authority sites. So, yeah, every link is
+
+5:03: going to be ideally to a different domain, but just make sure it's a relevant article that you're linking to,
+
+5:10: relevant to the content you wrote. So for the for example for the chamber
+
+5:16: of commerce link where do I put a link on the homepage? Sorry. Sorry. Okay. So we're getting a
+
+5:21: little bit confused here. Uh that's why I wanted to make sure I understood your question. Okay. So there are two types
+
+5:27: of external links. So one I call them the like uh external authority links.
+
+5:32: That's a link from your content out to third party sites. Okay? That you should
+
+5:38: be doing on most all of your content. The other one is a link from an external site back to your site. So that's going
+
+5:44: to be like the Chamber of Commerce, right? So you'll join the Chamber of Commerce, you'll put in whatever your
+
+5:50: website URL is and then that will appear as a link back to your website URL. So
+
+5:55: for those types of things though, um, and you also have like if you sponsored a youth sports league or you sponsored
+
+6:02: the Bayou Bash. uh for my own website, uh my own agency website, I'm not really
+
+6:08: trying to rank it, but there's a TEDex here on the Mississippi GF Coast. First time they've ever had one, so I
+
+6:14: sponsored that event. Uh so I will get a link from like aedu college uh thanking
+
+6:20: me for sponsoring the TEDex uh event. It was a little bit more uh but the cheapest sponsorship for that event was
+
+6:27: $250. And I can guarantee that if you had a local business like a plumber on
+
+6:32: the Mississippi Gulf Coast and you gave them $250 to sponsor this event, that
+
+6:38: would probably be enough to get you ranked in the top three pretty consistently. Uhedu from a local
+
+6:44: college, man. So, uh, those that type of link should in general go to your GVP
+
+6:50: landing page. So, yeah. And that's what the local offsites prompt is for. The
+
+6:56: other ones I'm talking about, you'll just have your article, your content, and then inside that content, you'll
+
+7:01: just have a link to Forbes. Those are super easy to do. Your VA can do them. Uh AI can do them for you if you ask it
+
+7:08: to. Uh those are not links back to your site. You'll you need the links back to your site also to build that trust with
+
+7:14: Google. I don't know. Hopefully, I'm making sense there. Let me know if I'm not and I can try to explain it again
+
+7:21: from the beginning. Uh yes. Yes. What I'm understanding is the links that go from the website outside
+
+7:28: those are the authority links from the content which includes the pages that
+
+7:35: are categories or services and the pages where it's like content and blogs um and
+
+7:43: I have links in those pages all these different type of pages outside to other
+
+7:48: authority content right yeah yep and then the other ones the chamber of
+
+7:55: commerce and the other ones the external links which is um from other people to
+
+8:00: my website. Yes. Okay. So to optimize the curve 30 just
+
+8:07: the category pages and the service pages they have the FAQ sections as well.
+
+8:15: Right. Sorry say it one more time. So for inside of the core 30 what I'm
+
+8:23: referring the core 30 just the category and the service pages no content just service and cate category pages these
+
+8:31: ones do contain the FAQ sections in them
+
+8:36: they can yeah if you have FAQ sections yeah they well would that be ideal to have
+
+8:43: the FAQ sees in in them so we do FAQ sections sometimes not every page has them Um, it's typically
+
+8:50: if we we put an FAQ in if we need additional topical relevance. Uh, a GBP landing page will usually have an FAQ
+
+8:57: section and other pages we'll put in as we need them. But, you know, I'd say probably a third of the content we
+
+9:04: publish has an FAQ p FAQ section, but not all.
+
+9:09: Okay. All right. Cool. So, again, let me know, put your hand up again if uh there are additional
+
+9:15: questions or if we need additional clarity. Uh hopefully that made sense. All right, let us go over to Matt
+
+9:22: who dropped 11 questions. All right, so we're not going to hit all of them straight away, Matt, but we'll get
+
+9:28: started here. And thank you for the kind words. Obviously, that's fabulous. Uh
+
+9:33: maybe I will hit all of them since he started with flattery. That that really works for me. All right, so the first
+
+9:39: one, it seems categories and services are extremely important for laying the foundation. Uh 100%. Yep. If you have
+
+9:44: the wrong categories, especially the primary category, that's obviously the most important. If your primary category
+
+9:49: is wrong, then even if you do the work to rank, you won't get calls. Uh so the
+
+9:55: primary category is critical. Uh one of my favorite examples when we talk about the importance of primary categories is
+
+10:01: HVAC contractors because you might think, hey, they're an HVAC contractor,
+
+10:07: therefore the primary category should be HVAC contractor. And you would be wrong. Uh if you rank in the top three for HVAC
+
+10:14: contractor, you will not get very many phone calls. Uh that's because not many local people search for HVAC contractor.
+
+10:22: Uh they typically are searching for air conditioning repair. So that should be your primary category. Uh you'll rank
+
+10:29: for your primary category first. So that's just I like that example for HVAC contractor. It makes sense. And when you
+
+10:35: look at uh people who are ranking for air conditioning repair, most of them have air conditioning repair as a
+
+10:41: primary service. But you will see a bunch of people who have chosen HVAC contractor as the primary service. They
+
+10:46: just made it harder on themselves. So the way that we do this, your next followup, what kind of involvement does
+
+10:52: the client have? How do you handle this? So the way we handle this for every new client, the very first thing we do is a
+
+10:58: GBP audit where we basically we have a a
+
+11:03: Google doc. it's in the training and we walk through that Google doc with the client's website and their GVP open and
+
+11:10: we fill it in and then we recommend the changes that we would make uh to their GBP based on what we're seeing. Uh that
+
+11:17: gets sent over to the client and we say hey here's the changes we want to make and we want to make them right. Uh so
+
+11:23: many times we've said oh client sure go ahead and make the changes yourself and that's a disaster. I don't know why it's
+
+11:29: so hard for them to make the changes themselves, but like, you know, oh, go ahead, make the changes yourself. And
+
+11:35: then they end up adding every service under every category or something like that. And it's just like, no, you did it
+
+11:41: wrong. Now it's worse than it was. Why did you add all these services everywhere? That's not what we said to do. Anyway, um, so we send them, here's
+
+11:49: what we think should be changed. Let me know if you have any questions, feedback, or approval to change. They'll
+
+11:55: say approved, and we go on and make the changes. So part of that is going to be like the HVAC example uh that you know
+
+12:02: we've worked in the space before. We know what people are typically searching for. So we know what the primary category what's a good primary category.
+
+12:10: The other way that is a lot obviously less experience-based is if you rely on GMBB everywhere uh
+
+12:17: where you pull up a relevant category. It's going to tell you how many businesses are using what category and
+
+12:23: then you just make a judgment call. So if you use GMBB everywhere to look up
+
+12:28: HVAC contractor, you'll see that the most common primary category is HVAC contractor and the second most common
+
+12:35: but it's really really close is air conditioning repair services. So when you see that then you you you know you'd
+
+12:41: look at that and think hm boy that's interesting. Air conditioning repair services is a super popular secondary
+
+12:47: category or a super popular primary category. Which one of those make the most sense for me as a primary category?
+
+12:54: Do not gloss over that step. It's super easy to be like, I'm going to pick the one that has the highest volume and then
+
+13:00: move on. But don't do that. Look at the ones that GMBB is telling you. Look at the numbers and think about, hey, what
+
+13:06: makes sense? You can even screen snip the GMBB everywhere shot that shows all of the numbers of the different
+
+13:12: categories and give it to chat GPT and say, hey, I'm trying to rank on Google.
+
+13:17: Uh, which of these make the most sense as a primary category in your mind? And if you asked it that for HVAC contractor
+
+13:24: versus air conditioning repair, it would tell you air conditioning repair makes the most sense. Um, so anyway, hopefully
+
+13:31: that answered that question. Do you do the content audit after? Yes. Um, so we do the GBP audit and then the next thing
+
+13:38: we do is the uh homepage uh audit uh the homepage audit. Reason we do it in that
+
+13:45: order is we can't do the homepage audit until we've done the GBP audit because an important part of the homepage audit
+
+13:52: is what are their primary categories, secondary categories and services. So we do the GBP audit first. We get approval
+
+13:58: on the GBP audit. Then while one team member is making the GBP changes, another team member is kicking off the
+
+14:04: GBP audit or the GBP homepage, GBP landing page audit. Um, and once we do
+
+14:10: the homepage audit, GBP landing page audit, then we do the content gap analysis. Um, and same type of process.
+
+14:18: The person who finishes the homepage audit moves right into the content gap analysis while we shoot the homepage
+
+14:24: audit off to the client to get their feedback. Uh, so it's sort of a sort of series type of doot d. All right. For
+
+14:32: Manhattan businesses, we always use NYC. Depends on the business, honestly. Um, but if they're located in Manhattan, uh,
+
+14:39: of the five burrows, Manhattan is the one in my experience that people are the most likely to say their address is New
+
+14:45: York, New York. Um, very I don't think I've ever seen somebody say that they
+
+14:50: live in Manhattan, New York. And, you know, if they live in Brooklyn, it's like twothirds of them will say they
+
+14:56: live in Brooklyn, New York, and one-third will say New York, New York. Uh, but the outer burrow is much more
+
+15:01: common that you see the burrow New York, whereas in Manhattan it's almost always New York, New York. So, typically we use
+
+15:08: NYC unless the client has some other very compelling reason for us not to. Um, all right. Can you please give some
+
+15:15: tips on finding a good editor for humanizing AI generated content? How much content do you give per editor? How do you work out pricing? Great question.
+
+15:22: And I think Bill Billy asked this question a few weeks ago. So um
+
+15:28: initially I had I had uh 12 full-time copy editors uh and I had one person who
+
+15:36: was running that copy editing team. Uh chat GBPt3 and a half came out suddenly
+
+15:41: I didn't need all these copy editors. Um so that one person instead of running
+
+15:46: the copywriting team she basically started running AI. So her job was almost the same, but instead of managing
+
+15:53: copywriter, she's now managing AI. Um, so eventually we got to a point where
+
+16:00: she wasn't able to keep up, just her. So we brought on board a new uh copywriter.
+
+16:05: We now have two AI copywriters. Um, and we have some training documentation. Uh,
+
+16:13: we're still sort of feeling out to make sure that training documentation works, to make sure it makes sense. Once I'm in
+
+16:18: a place with it where it's really h where I'm really happy with it and it's working well. My intent was to add it to
+
+16:23: the training. Um so this is the second person we brought on board since we
+
+16:28: started this uh AI copy writing process.
+
+16:33: Uh so once we're in a place with the second one, it'll be good enough that I'll I'll be happy with it to to put
+
+16:39: some of that documentation up how we did it, etc. Um uh now I found the person. I basically posted on my Facebook wall and
+
+16:45: said, "Hey, I'm looking to hire an AI copywriter, fully remote position." Um,
+
+16:51: I that was in retrospect perhaps a mistake because I got dozens and dozens of people messaging me. Um, so that's
+
+17:00: one option. You could go to Upwork. If you do go to Upwork, I would strongly encourage you to not use overseas talent
+
+17:07: for this. uh you're really looking for somebody with editing experience, not with copywriting experience. Uh the pay
+
+17:14: structure that we did, so how much content per editor? It's whatever they
+
+17:19: could handle. They'd say, I'd ask, "Hey, how many articles could you do each each week?" They'd give me a number, and
+
+17:25: that's what we'd give them. And if we had more, we'd have to find another person. Um, so I know because we've been
+
+17:33: doing this for years now that my uh employee, my SEO manager, uh, she can
+
+17:41: produce a content from zero to ready to post in about 20 minutes. Um, so that's
+
+17:51: about three per hour. So the pricing that we do is they give us a ready to
+
+17:57: post article. So that means the content is written uh by AI. It's edited. They
+
+18:03: have added the external links like the links out to Forbes, to Wikipedia, whatever. And they've run it through
+
+18:09: zero GPT themselves. So they're going to deliver my SEO manager, the Google doc
+
+18:16: with a document, uh and the zero GPT score. Um for that, a ready to post
+
+18:22: piece of content. For the first 10, I pay $30 a piece. uh just cuz there's a
+
+18:28: ramp up time, there's a learning time. Um and then after the first 10, it drops to $15 a piece. Uh that works out to $45
+
+18:36: an hour for someone who is pretty good at it by that point. And usually they are after they do the first 10. $45 an
+
+18:43: hour for a fully remote job that they can work whenever the hell they want. I don't care if it's 2:00 in the morning
+
+18:49: or 2:00 in the afternoon. All I care about is give me a ready to post article and then I will uh you know process your
+
+18:58: 1099 payment. Um so that a lot of people are interested in that. I think it's a
+
+19:03: good salary for that type of work. Um now we did run into a bit of a snafu
+
+19:08: with images. So we've added yet another step where I do have an overseas person.
+
+19:14: Uh so uh my local not local to me but my native English-speaking content writer I
+
+19:23: writer in quotes uh AI runner uh they will produce the content uh get it ready
+
+19:29: to post uh my SEO manager double checkcks the content make sure it's good
+
+19:34: and then it gets sent to someone uh who's overseas and he will generate uh
+
+19:40: three to four AI images he'll generate alt text for those images. Uh he'll
+
+19:45: compress the images, make sure the size of the image is correct, and he'll generate schema for those articles. Then
+
+19:51: he'll shoot it back to my SEO editor with the images, the schema, and everything. And then my editor, uh my
+
+19:59: manager, not editor, she used to be editor. I get confused. Anyway, my manager, she shoots it over to the
+
+20:04: developer and he finally posts it with the images, with the schema. Everything is good to go. uh that overseas
+
+20:11: developer to generate the images, to generate the schema, uh is we pay him $5
+
+20:16: an article. Uh hopefully that answered your question. That was probably more
+
+20:21: detailed than you were looking for. Uh let's see. Are you willing to share a writing sample you include with your AI
+
+20:27: content prompt? Oh, because we look for writing samples. I mean, I could. It's not that big of a deal, honestly. Um
+
+20:34: I've shown a couple of client websites on these pro calls before, so you could grab that. really the writing sample it
+
+20:41: it's not super critical. Uh probably the best thing that you could use as a
+
+20:46: writing sample is uh content that is ranking in your local uh industry for
+
+20:53: your local city. Right? So if you're a plumber in New Orleans, grab the homepage for the three plumbers in New
+
+20:59: Orleans and give that to AI. It will be most likely more relevant than some generic sample. And uh what we do uh and
+
+21:08: the AI cop copywriters we work with do this also. They set up a custom project in claude which is exactly the same as a
+
+21:15: custom GPT. Uh they set one of those up for every single client. Um we used to
+
+21:20: not but we shifted toward setting them up for every client. And the reason for that different clients have different
+
+21:26: things that they want right. So we just got uh we had an HVAC contractor um in
+
+21:32: South Florida. We just landed another one and we sent him the first batch of content. And he said, "Man, this is
+
+21:37: talking about truck mounted air duct cleaning. We don't have any truck mounted air ducts. Uh, we do it this
+
+21:44: other way." Hey, no problem. We'll get that edited and then we can go into the project in Claude and say, "Do not
+
+21:51: mention air truck mounted air duct cleaning." And that will never happen again. Uh, it it's also pretty common
+
+21:57: for medical professionals. There are certain things they're not allowed to say. So, the first couple of pieces
+
+22:02: they'll say, "Hey, I can't say this. I can't say this. I can't say this. No problem." We'll put those can't say in
+
+22:08: Claude, and then uh Claude, in my experience at least, is very good usually about following specific
+
+22:14: instructions. For those of you who have watched the 10K challenge uh recordings, you'll know that it's not always great
+
+22:21: at it. Uh sometimes it hallucinates even when I am very specific. But at least uh
+
+22:26: we haven't had a lot of issues with Claude putting things like that in content when we specifically said right
+
+22:32: don't mention um don't mention truck mounted air duct cleaning blah blah blah
+
+22:38: okay is there such thing as too much supporting content absolutely there is um now it won't hurt you in my
+
+22:45: experience but eventually you get to a point where you just don't need anymore you have the topical relevance Google
+
+22:51: believes that your business does what your business say it says it does. So
+
+22:57: there's no real reason. You're not going to rank higher by doing more and more supporting content. So it won't hurt
+
+23:03: you, but it will also stop helping you. So at that point is when we would stop producing supporting content because you
+
+23:10: know why am I going to spend resources money to produce supporting content that isn't going to do anything?
+
+23:16: Um okay. When do you revamp a website versus start with a new URL? I don't do either of those things. Um about the
+
+23:23: worst I would do uh is if we had a client who had hundreds and hundreds of
+
+23:29: indexed URLs and the ranking was terrible. Um then we would pro not
+
+23:34: probably then we would start with a technical audit, see why it's so bad and
+
+23:39: eventually work toward um basically fixing the the website. Right? If
+
+23:45: there's that much content that's indexed and the ranking is that bad, there's something seriously wrong with the
+
+23:51: website. But we will almost never like relaunch a website from scratch because then you you lose everything that you've
+
+23:58: built. Um, and age is an important rank factor.
+
+24:03: I say that age is like the ride height at Disney World, right? You must be at least this tall to ride this ride, but
+
+24:09: if you're 610, it doesn't matter versus you're 49 in. Uh so age is similar and
+
+24:16: that this tall to ride this ride is usually like six to 12 months depending on the space. But once you get older
+
+24:21: than that it becomes less important. That being said um there is evidence
+
+24:27: that chat GPT cares about domain age also. So I will almost never go for a
+
+24:34: new domain unless there's a really really compelling reason to do it.
+
+24:40: for the content planner. Can you have AI get all the info instead of manually copying and pasting? You can sure try.
+
+24:46: Uh but man, AI loves to make up when you give it an opportunity to. Um so every time I've tried to prompt AI to
+
+24:53: do that for me, it makes it up. Um and that's exactly the same reason you'll notice in the content gap analysis, I'm
+
+25:00: feeding AI the screaming frog files. Well, why am I doing that? AI can crawl the website. Okay, it's you give me a
+
+25:07: prompt where the AI is going to give you an accurate answer that it's selfcrolled. I haven't been able to figure that out. It makes up
+
+25:14: because it's I guess too lazy to selfc crawl. Maybe they trained the AI too well and they gave it laziness. Um so
+
+25:21: giving it the screaming frog files, it will actually give real results. And same thing, uh the copy pasting, we'd
+
+25:27: still do that because otherwise it just makes it up. It was It wasn't every
+
+25:32: single time, but it was close to half of the time it was making it up. And it's just like I mean, if it's going to make
+
+25:38: it up half of the time, then I may as well just go copy paste it every time cuz it's not much longer to copy paste
+
+25:45: than it is to double check every time. Um, do you ever set a specific location
+
+25:51: and use Search Console for local keywords? Sure, don't. The only thing we use Search Console for uh on a local
+
+25:56: engagement is to check the uh keep an eye on the index status. Um, that's it. the search console, the data for the GBP
+
+26:03: does not feed into the search console. Uh search console is reporting organic stuff. Uh some of the clickthroughs if
+
+26:09: they click the website button on the GBP, it will show up in search console, but impressions won't. It's just it's
+
+26:16: just a mess. Search console for a local website. So, we don't use it except for the uh indexing report. Uh do your
+
+26:22: clients read the articles you produce and make changes? Some of them do. Um every article we produce, we send to the
+
+26:28: client for feedback before we post it. Um, and some of them read them and give
+
+26:34: us like eighth grade English teacher comments with a red pen, which is no problem. Uh, and some of them write back
+
+26:41: 30 seconds, like we'll send them 20 articles and they'll write back in 30 seconds and say approved. There's like
+
+26:47: either this person is a speedreader or they're not reading them. Either way is fine. Um, when we do get feedback from
+
+26:54: clients, as much as possible, we try to incorporate that feedback back into the custom prompt for that client uh,
+
+27:02: content. So, if they're doing stylistic changes, things like that, then we will change the writing samples and the
+
+27:08: prompt to be the edited versions uh, of what the client has sent back. I mean, our goal is to get to a point with every
+
+27:14: client where even if they're an eighth grade English teacher, they're just not giving us many comments anymore. Um, all
+
+27:21: right. And the last one before we get over to Jay, do you usually put a services link in the navbar? Does it
+
+27:26: matter if I put something like meet Matt instead of about? I don't think it matters if you put something like meet Matt instead of about. Um, I think it's
+
+27:33: pretty clear. I haven't done it, so I I'm not saying that from uh uh evidence,
+
+27:39: but the about us page is really serving two purposes. It's establishing EAT with Google and it is establishing trust with
+
+27:47: the chat GPT recommendation engine. So, I don't think meet Matt would have a significant difference. Um, never tried
+
+27:54: it though. We always just do about. So, I'm just guessing there. So, I'll probably stop talking out loud since I'm
+
+27:59: just guessing. And do you usually put a services link in the navbar? Yes, we usually put a services link in the navbar. Um, depending on the website,
+
+28:08: depending on how competitive it is, uh, sometimes we'll put all of the services in the navbar, sometimes we won't. Um, I
+
+28:15: know I I I talk about that links in the navbar don't pass SEO juice, don't pass
+
+28:21: the internal authority. Not a big deal for a local website because we're trying to rank the GBP, not the individual
+
+28:27: URLs. Uh, so sometimes we do, sometimes we don't. If we're taking over a client's website, which is most common,
+
+28:34: we don't usually build them from scratch. If we're taking over a client website, we usually just go with
+
+28:40: whatever they have. Um, okay. Jay, what you got for me? Thank you very much.
+
+28:46: Sure thing, Matt. Well, you were mentioning copyright
+
+28:52: just earlier. I started copyright, like a professional copyright.
+
+28:58: Oh, yes. Yes. Okay. I have a competitor of mine and
+
+29:03: his city silos are basically one page per city.
+
+29:09: That's it. They do mention all the different services, but I did a
+
+29:16: comparison which I normally do either on cloud and or chat GPT in reference to
+
+29:23: ranking for map packs AI uh overview which is actually visibility
+
+29:31: um mobile readability. So, I get these ratings that help me compare theirs to
+
+29:38: mine. And that c that professional copyright
+
+29:43: on Claude blew me out of the water. Although I have 40 pages
+
+29:50: in that city silo. He had one, but because he was copyritten,
+
+29:56: they said that he really completely blew me out of the water. What's your take on that?
+
+30:02: We very rarely will do competitor analysis um in the local space and the
+
+30:08: reason for that is if every time we've done competitor analysis we basically
+
+30:14: spin out of control. Uh they're always doing something weird or bad and it's
+
+30:19: frustrating, how are they outranking us, etc., etc. We actually stopped doing competitor analysis before we got into
+
+30:26: the local space when we were still doing non-local SEO. Um because the I don't
+
+30:32: know the correct way that a lot of non-local SEOs migrated toward was they
+
+30:37: publish their money page and then they'd start cranking out supporting content for that money page and they'd source
+
+30:43: all of their links to the supporting content and they wouldn't hit the money page with, you know, 200 links or
+
+30:48: whatever. Uh which is the correct way to do it. It's the way that we are doing it also. But the challenge is if you're
+
+30:54: doing a competitor competitive analysis and you're wondering, hey, why isn't my page ranking and you look at the
+
+30:59: competitor's page, he'll have like two links. Well, what you don't see, unless you spend hours doing an analysis, is
+
+31:05: the dozens of internal links that point back up to that money page. Uh so we
+
+31:11: just stop doing it. Um on local, it's even worse. Uh I have seen in many many
+
+31:17: uh fairly competitive spaces, right? They'll number one will will have a thousand reviews and we'll have a domain
+
+31:24: with a 100 indexed URLs. Number two has you know 500 reviews and you know 150
+
+31:32: URLs indexed. And number three has four URLs and no website. Like what the
+
+31:38: How am I supposed to do a competitor analysis on that? Like number three just doesn't fit at all. How is it possibly
+
+31:45: ranking in the top three? It doesn't even have a website attached to it. And the best explanation I've been able to
+
+31:51: come up with and I've heard it from other I don't know SEO people in the space uh remember right that when we
+
+31:58: talk about Google's modern algorithm not the one that Larry Page wrote his PhD dissertation on but how it currently
+
+32:04: works um it's based on goal completion. Google Google's algorithm is set up to
+
+32:10: make its searchers happy so that it searchers come back to Google they use Google etc etc. So, you know, you might
+
+32:17: hear some SEOs talking about dwell time, uh, things like that, right? Uh, if they're if you're trying to optimize for
+
+32:23: dwell time, you're doing it wrong. You need goal completion. Uh, you want to give the searcher what they're looking for as fast as you can so that the
+
+32:29: searcher doesn't go back to search results. So, what that means from a local perspective, goal completion is
+
+32:36: basically making the phone call. So if there's a business and they launched a Google My Business profile 15 years ago
+
+32:44: and in the intervening time uh they've been consistent at answering the phone uh they've provided customer service so
+
+32:51: that customers aren't calling other of the top three ranking then they might just stay in the top three because
+
+32:58: they're providing good goal completion. Customers are interacting well with that business. So Google leaves it there even
+
+33:05: though when you look at the metrics there's no possible explanation for how it's in the top three. Uh so for all of
+
+33:11: those reasons uh we don't focus a huge amount on competitive analysis. The example I just gave 100 indexed URLs 150
+
+33:20: indexed URLs and no website. I would plan on between 130 to 140 URLs if I
+
+33:26: wanted to get into the top three. Uh and that's how I would plan my scope of work. That's how I would do my proposal.
+
+33:31: I would of course keep very close eye on what the local rank map is doing as
+
+33:37: we're cranking out that level of content. So, we have a client uh HVAC in
+
+33:42: South Florida. I think I just mentioned him. And he wants to rank for air conditioning repair in Pompano Beach,
+
+33:49: West Palm Beach, and Orlando by next spring. And his rank map is pretty much 20 plus everywhere. U so that's that's a
+
+33:57: tall ask. Um, so we are doing 80 articles a month between those three
+
+34:03: locations and I chose 80 a month because uh he has five months. That gives me
+
+34:09: enough time to crank out 400 articles between the three locations. That's about 125 130 per location. And that's
+
+34:17: what my very quick how big are these websites looked like we would need in order to rank by March April timeline.
+
+34:25: Now, we're obviously going to watch the local rank maps. And I had this conversation with the client. I was just like, you know, these are all in the
+
+34:31: same domain. And what we're doing is establishing topical relevance. So, we probably don't need 400 pages to
+
+34:36: establish topical relevance. So, we'll keep an eye on the local rank maps. And when we establish topical relevance,
+
+34:42: we'll stop cranking out this topical content and switch to geographical content. But, I don't know for sure. And
+
+34:49: if March is that big of a goal, I'd suggest we start here and then we can re-evaluate December, January. Maybe we
+
+34:56: need to increase the volume if we're not making the progress we need. Maybe we can decrease the volume if things look
+
+35:02: great. I don't know. I hope that was helpful, Jay. I didn't answer your question at all. I was more trying to
+
+35:07: explain why I don't usually ask the question that you asked. Um and and
+
+35:12: sorry for that, but uh fair enough. You don't have a good answer to questions I don't ask. And hopefully I
+
+35:18: explained why I don't usually ask that question. All right, Derek, my good friend Derek, he's been he's been here
+
+35:24: since the OG days. He, Brian, and I there multiple calls. I think it was just the three of us. Anyway, have you
+
+35:30: ever used bark.com? I keep getting random emails saying people are interested in SEO. I haven't used bark.com. Um, and honestly, I can't
+
+35:39: think of anyone off the top of my head that I've heard of using bark.com. Um, so if it works for you, let me know.
+
+35:45: That could be fun to check out. All right, Mr. Ortiz, uh, did you used to play for the Boston
+
+35:51: Red Sox or is that a different David Ortiz? I did. I just slimmed down a little bit.
+
+35:56: Excellent. Excellent. I am brand new to SEO in the group. My first meeting. Welcome, David. Glad to have you. I've
+
+36:02: gone through the SEO course material, looking for advice, how to start marketing, getting someone to do the SEO for me and tell my man, do you have
+
+36:08: marketing advice? Okay, so and and I appreciate it. I love your style in the YouTube videos. Great. Um, so my best
+
+36:14: advice for that, just getting started, how to do the project. So there's a couple of approaches. Um, but they're
+
+36:21: all going to basically revolve around the same thing that I always suggest that someone who's new to SEO do the
+
+36:28: work themselves first. Uh, it's very hard to hire someone to do a job that
+
+36:35: you don't know how to do. Uh, there ends up just being a lot of trust there.
+
+36:40: Whereas hiring someone to do a job that you know how to do, you're much more in control of it. Uh you know how long it
+
+36:47: should take. You have a good idea of what the output should look like, etc., etc., etc. So, for someone new in it, um
+
+36:54: there's there's a couple of options. One, write launch an agency site and do the SEO on your own website. If you
+
+37:00: don't want to do an agency site, no problem. launch some local service business website, use your primary
+
+37:07: residence as the GBP and work to rank that up, right? Um, you could use like a
+
+37:12: plumber, electrician. Those are a little bit challenging because they do require licenses. Uh, so it might be fun to do
+
+37:19: something like pool cleaning or landscaping where there's a fairly high customer value, right? If you're a
+
+37:25: landscaper, like I pay my landscaper $100 a month and I haven't looked for a new landscaper in years because he does
+
+37:31: a great job. Uh so if a landscaper has a very high customer value, uh so does pool cleaning, right? Couple hundred
+
+37:38: bucks a week and uh they'll be your client forever if you do a good job. So these are uh spaces that you don't
+
+37:43: require a license. It's typically not super competitive, especially pool cleaning. Uh and you'll get a chance to
+
+37:50: like build a website, get a GBP verified, like see the whole process through. Another option is uh if you
+
+37:58: find a local business uh and just do it for them for free. Uh maybe they pay the links uh but no labor costs. You do
+
+38:05: everything else for free. Just say that you're new in SEO and uh you want to try try it out and you're wondering if
+
+38:11: they'd be open to it. Just, you know, be honest. A lot of business owners I found are are surprisingly okay with that. Um
+
+38:18: another one is a similar tactic where just like, "Hey, I'm new. Um, I'm looking for like case study type clients
+
+38:24: and I'm not going to charge you anything. Uh, and even to make them more comfortable, you could just literally
+
+38:29: send them uh the invoices, the links to buy the links that you think you want.
+
+38:36: Uh, and then run the Facebook ads campaign that's in the training. Uh, that'll get you on the phone with local
+
+38:41: business owners for $20 or less per call in my experience. Um, and if you do
+
+38:47: that, you know, you get on the phone with these local business owners and you're like, "Hey, I'm really looking
+
+38:52: for a case study client, uh, someone that is okay with me coming in and
+
+38:58: showing off their website as a case study, doing the work. Uh, I might ask you to pay for some links. I'll send you
+
+39:05: to the direct page so you can buy them yourself. You can see I'm not overcharging you, and I won't charge you
+
+39:10: for anything else. And, uh, we'll get you ranked here." So, there's a couple of different ways there that I would be
+
+39:16: approaching if I were brand new. I would say don't do what I did when I was brand new, right? When I didn't know what SEO
+
+39:23: stood for, I started applying to jobs on Upwork for SEO. Um, and one of the first
+
+39:29: clients I got, I told him that I was going to do three PBN links a week.
+
+39:36: Yes. Get out of the frame. I said I was going to do three PBN links per week,
+
+39:42: which I did. And I did that for about two and a half months. And then their entire domain got de-indexed.
+
+39:47: I was just buying the shadyiest, cheapest PBNs I could find. Uh not much
+
+39:52: worse than um getting an entire domain de-index. So don't do that. Okay. Um you
+
+40:01: you can't do much worse than that. All right. Uh oh, Lolita. Excellent. Is she
+
+40:07: here? I think she left. Did she come back? It's so hard to figure out if I Oh, it's
+
+40:13: alphabetical. Excellent. She is here. Okay, perfect. All right, Lita. Some of the competitor have more pages index,
+
+40:18: but they rank lower. Is that because of other factors? Yeah, I talked about this a little bit with Jay. Uh, if you didn't
+
+40:24: catch that answer, um, catch it in the replay. But the short version is Google
+
+40:29: ranks what it wants. And a lot of the weirdness is just going to be based on
+
+40:34: goal completion. How well uh these businesses have done in the past for providing good customer service. Uh
+
+40:42: product schema for a service business would it be service schema? Yes, we will do service schema. Uh service schema
+
+40:47: will go on the GVP landing page and it will be embedded with the uh local
+
+40:52: business schema. Service schema will also go on the category pages and we'll embed all the service schema for the
+
+40:59: services below the category below the category pages and we'll put service schema on the page for that specific
+
+41:06: service. Uh so we basically try to put schema everywhere we possibly can. when you're writing these schemas, uh when
+
+41:12: you're writing the description of these schemas, try to use like real language,
+
+41:18: if that makes sense, not you know formal language like try to use language that
+
+41:23: people use if in a Reddit post looking for an emergency plumber. Uh hopefully that makes sense. Okay, my services and
+
+41:30: categories say review pages with the wibbit is it with widget whibbit is it in those pages I have to add? You can
+
+41:35: add review schema. We typically don't. Uh, if you want to knock yourself out,
+
+41:41: uh, review schema I found just doesn't do very much anymore these days. Years ago, like 10 years ago, it used to do a
+
+41:48: lot, but it just doesn't anymore. Um, breadcrumb crumb schema. Typically, we'll put breadcrumb schema on every
+
+41:54: URL, but we'll just use a plugin like RankMath or something like that to generate the breadcrumb schema. I have
+
+42:00: no idea how to manually generate breadcrumb schema. Um, I just the plugins seem to do a great job with
+
+42:06: that. Uh, all right. And just to confirm what I have in the core 30 organization review, review is optional. FAQ
+
+42:11: services, but uh yes, and you don't have the you could you add author schema uh
+
+42:17: and just call the author the business owner. Uh but that's pretty solid. Uh and to my homepage. Yeah. Uh the local
+
+42:24: business schema, not the location schema. Local business schema on the GBP landing page. Uh blogs and supporting
+
+42:31: organization review FAQ article and bread. Yep. Agreed. If of course you have an FAQ on that page and same thing
+
+42:38: for the core 30 pages. If you have an FAQ then put an FAQ schema on that page.
+
+42:43: Uh how do you search for opportunities where you can suggest the client to put some money on it? I have no idea what
+
+42:48: you're asking Muhammad. Um are you can you say more about this question? Sorry.
+
+42:54: All right Benjamin what you got for me?
+
+43:00: Mute. There we go. Um, well, you kind of rocked my world with the HVAC comment.
+
+43:07: Oh, no. About the uh primary category. So, I initially was going to ask about lead
+
+43:13: snap, but I figured it out. Um, so I have a relatively new site. Like guy didn't have a website and I I searched
+
+43:21: all the competition. I'd say 90% of the market is HVAC contractor. But I I agree with what you're saying.
+
+43:29: Like that's not something that I, you know, if my AC broke, I'm going to search AC repair. If my furnace isn't
+
+43:35: working, I'm going to look for a furnace repair. Yeah. Um I I just was under the impression that, you know, kind of follow what the
+
+43:40: leader is doing so you're not the outlier who's potentially missing out.
+
+43:46: Um, would you recommend since it's, you know, still in its infancy and really
+
+43:54: I don't I don't see it being the end of the world if if I got to reverify and
+
+44:00: restructure the website. Um, what would you say if you were in that situation? What would you do?
+
+44:05: Uh, so you have HVAC contractor chosen as the primary category. Are you ranking for it?
+
+44:11: I am, but he's in such a small community. My next move is to try to build authority and, you know, topical
+
+44:18: relevance in neighboring communities, which aren't very competitive either. Um, so yeah, we're one and two in his
+
+44:24: small community for pretty much every every service that they provide, but
+
+44:29: he's only he only has two other competitors and one of them doesn't have a website. Gotcha. So, um, what I would probably do
+
+44:36: is check how he's ranking for air conditioner repair and if he's ranking well for it, then I'd just leave it alone.
+
+44:42: Okay. I mean, my thought is I haven't built out the full core 30 um for those
+
+44:47: secondary because I have those and if he's ranking well, then there's no need to. All right. Yeah, because I have air
+
+44:52: conditioner contractor, air conditioning repair service, heating contractor, furnace repair service. Those are my
+
+44:58: secondary categories and then services. I just need to create the service pages and and build more authority.
+
+45:06: Perfect. Perfect. Um I think that was it. Awesome. All right. Brian had a question
+
+45:14: on your HVAC example. I have a large HVAC contractor and that's a primary category. Excellent. Last year I quickly made them number one. Great. They paused
+
+45:20: a contract to rebuild their website. Rankings tanked. Yep. And it's been a
+
+45:26: struggle to get them back. Do you think the primary category is not the problem when it wasn't before? I'm going to dig a little deeper on the competitors. So,
+
+45:32: I mean I something similar to to Benjamin. It's probably not the primary category without looking at it because
+
+45:38: you had it ranked before. Um, how long ago is the rebuild? Was it recent or uh
+
+45:45: like months ago and they haven't gotten back yet? The rebuild was uh last summer, not not
+
+45:52: I mean a year ago. And so then they were expanded to some other locations which we talked about
+
+45:58: that like last yeah months ago. So I was focused a lot of time on those other
+
+46:03: locations. Honestly, I just figured they'd go back to number one like they were before, you know, with a little bit
+
+46:09: of time once they recovered. Uh, and that hasn't happened. So,
+
+46:14: while it's been a year, you're doing this the right stuff to be doing it. You're not seeing a lot of progress. Probably what
+
+46:22: I would do is a technical audit of the site, uh, if you haven't already, just to see, you know, when they launch the
+
+46:29: website, is there a mistake? Do they have errors in it? Is Google seeing what it's supposed to be seeing, crawling
+
+46:34: what they're supposed to be seeing? Um, all of that. That's what I would uh that's where I would probably go uh to
+
+46:41: look at it. Um, and I don't know. I So, changing the primary category is also
+
+46:46: going to have a major impact on rankings. So, I'd also like, hey, how are they ranking for air conditioner
+
+46:51: repair? What are the competitors using? Um cuz I mean if they're if they're like
+
+46:57: five, six, seven average rank position and you switch to air conditioning repair, you might lose even more ground.
+
+47:05: Yeah. I went through the site just to make sure that the web design company didn't completely screw us over because
+
+47:12: they that's what they had been doing. Yeah. And uh so we kind of got everything touched up and fixed up and you know
+
+47:18: again I just figured hey you know we were there before we'll get right back. year is longer than I would expect.
+
+47:24: Yeah, feels like something else is going on. Uh yeah, so I'm going through it like the
+
+47:30: last couple days. Uh all of their services and we had another bonus. All
+
+47:35: of their categories, subcategories were erased. Nobody knows why. No one can
+
+47:40: explain. No one can claim who took out all of their secondary categories.
+
+47:46: So you know the when they did that, we lost everything. We were doing well for
+
+47:51: plumbing as a secondary category gone because somebody got rid of them and no
+
+47:56: one knows who. We put them all back. Plumbing uh responded to that and now I'm kind of rebuilding from that. What
+
+48:02: happened also is Google took all of the services and shoved them up into HVAC
+
+48:08: contractor because it wasn't the secondary service categories anymore.
+
+48:13: Yeah. yet stop changing things on the on the
+
+48:19: website on the GBP if you're ranking. Um yeah. Uh I mean that that's that's how I would
+
+48:26: basically um that's how I would basically approach it. And Troy also pointed out like Lead Snap does let you
+
+48:32: lock so that you can only make those changes through Lead Snap. You can't actually make those changes through the
+
+48:37: GBP anymore. Uh, we block pretty much every client's GVP to make sure, wait,
+
+48:44: who made this change to make sure that doesn't happen because the clients don't have access to log into Lead Snap and
+
+48:49: make them themselves. Uh, but yeah, that's frustrating. Um,
+
+48:54: well, they have about a dozen people in that management on that. Yeah. So, definit somebody just did it
+
+49:00: by accident, I would guess. So, just just lock it so it doesn't happen again. Uh, put everything back the way it was
+
+49:06: and depending on where they're ranking, right? If they're ranking 30 40% in the top three, then it's geographical
+
+49:13: content to try to get it back. If it's below 30 to 40% in the top three, then they need more topical relevance and
+
+49:18: that's adding FAQs and people also ask questions and all all of the jazz like that. Uh if the they're ranking well for
+
+49:26: AC repair, you can change your primary category. If they're not, I don't know. I' I'd have to look at the ranking to
+
+49:33: decide if I would actually make that change or not. Um but yeah. All right, Brian asks Facebook
+
+49:39: ads question referring to the old method. So the old method, that's the one on the training. It's the one that relies on a sales call. How many ad
+
+49:46: creatives images do you typically test? Well, so for the it's funny for the one
+
+49:51: that's in the Facebook uh for the one that's in the uh training, the first
+
+49:57: creative, the first image, and the first primary text uh won. Uh tried split testing.
+
+50:04: None of the other ones could beat that one. So, we just left the first one going. Um, typically we will split test
+
+50:12: quite a bit, but we're we're looking at So, are the ads the problem? Is the
+
+50:17: funnel the problem? Or is the call the problem? So, with that particular campaign, all we were doing is trying to
+
+50:23: get them on the phone call, which is a much easier ask than trying to get them to pay for anything. So, the big challenge there was the phone call. Um,
+
+50:31: so that's where we had to play with the offer, with the contract, with the price point, etc., etc. before it could start
+
+50:37: to get closes. Um, I don't really pay attention to all the metrics that Facebook gives. Um, maybe that's bad,
+
+50:45: but really what I'm looking for is the cost per lead. Uh, and then cost per
+
+50:52: call if there is a call and cost per customer uh, at at the trailing end. I'm
+
+50:59: not looking at things like click-through rate, blah, blah, blah. I'm I'm assuming that Facebook's algorithm is smart
+
+51:05: enough to optimize around stuff like that where I'm just saying, "Hey, what's my cost per lead?" Uh, for B2B
+
+51:12: uh with a phone number, five bucks is pretty good. Uh, less than that is better, of course. And, uh, if you're
+
+51:19: running like more than $10, then your, uh, offer in the ad is bad. And I mean,
+
+51:26: obviously, it's good if the ad offer matches the offer you're actually making, but it is two different things. the offer you actually make and the
+
+51:32: offer that's in the ad. So, yeah. Um, okay. How long do you run the ad? So,
+
+51:37: typically we'll run the ad until we get three times the ad spend of whatever we're trying to make happen. So, if we
+
+51:44: don't have any leads yet and I'm trying to get like a $5 cost per lead, then I'll run $15. If I haven't had a lead
+
+51:51: with $15 in ad spend, I know the ad's not working. A new ad, new copy, new
+
+51:56: offer. uh my if my if I'm trying to get a customer acquisition for a h 100red
+
+52:01: bucks, then I'll run $300 worth of ads before I decide it's not working. Uh
+
+52:07: three times the expected value is the statistical significance. If the actual
+
+52:12: expected value is correct and you run three times that value, there's like a 99.9%
+
+52:18: chance you would have had an event happen um just based on how uh
+
+52:24: statistical curves work. So 3x is the rule that we use. Uh are you keeping
+
+52:29: targeting as broad as possible? We're using as broad as possible. Um when we
+
+52:35: ran the plumbing ad, it was people who are interested in water heaters. That was the only interest we put in. That
+
+52:40: was it. Um and again, uh Facebook knows its audience better than I do. The more
+
+52:46: you narrow down an audience, typically the more expensive it's going to get uh
+
+52:53: with running those ads. So, I like to leave it super broad. Um, and then let
+
+52:58: it run for a couple of days until Facebook decides who needs to see it and then Facebook will narrow it down. Um,
+
+53:05: hopefully that makes sense. All right, let's go to Is it Karan?
+
+53:14: Yep, that's me, man. That's me all the way from New Zealand. Say it again. New Zealand.
+
+53:19: From New Zealand. New Zealand, man. I was up at 6:00 a.m. But it's all right. 6 a.m. All right. All right.
+
+53:26: About 7 o'clock now for me. So, let's take a quick poke. We're gonna run Mel Electric.
+
+53:34: Yeah. Macau Electric. Macau Electric. That's the one there, man. Yep. And then let it run.
+
+53:42: All right. Uh, so I hate your title tag because your title
+
+53:47: tag is just the brand name. Typically, we want the title tag to match the primary service we're trying to rank
+
+53:53: for. Um, so that's that's that's my first comment. And let's see if I can
+
+53:59: find your 06. Let's see if I can find your GBP. Uh, if the phone numbers
+
+54:04: match, that should find it. I don't see your GBP.
+
+54:11: Um, so let's see. Then we'll try just searching
+
+54:16: for the business name. Mel electric. There it is. There. Oh, so that's the one. Okay. So,
+
+54:22: the the name is different on the GBP versus the website. All right. All right. And the phone number is also
+
+54:29: different. 646345 4183. No, it's the same phone number. I
+
+54:34: wonder why Google couldn't find it. Um, that is Oh,
+
+54:41: so this starts with 64. So, that's the New Zealand country code or something. So, that's why. Yep. All right. Okay. Okay. So, I'm
+
+54:48: still It's still weird. It didn't find it. It should have found it. No problem. Um,
+
+54:54: so yeah, I'm still not happy with the What am I looking for? Heat map new.
+
+54:59: Still not happy with the uh title tag. Yep.
+
+55:05: Yeah, because I haven't done the core 30 yet just started this course. But um so the title tag isn't part of the core
+
+55:11: 30, right? The title tag is uh just part of the GBP landing page
+
+55:16: audit. Uh probably not the one maintenance and electrical. Sorry,
+
+55:22: can't find city. Boy, I've never tried to run uh something in New Zealand. Uh
+
+55:29: Wan Ganui. Monganui. Yep. Small town.
+
+55:34: Oh, there you go. This one. Search.
+
+55:39: And we've found it. Excellent. And electrician is your primary category. Great. So, I'll do keywords.
+
+55:48: Normally, I would do the city name, but I don't feel like typing that again. So, I'll just do near me, but that's wrong.
+
+55:53: Just so you know, city name is the typical one I would do.
+
+55:59: Um, this will update. I know you had more than zero. So, your primary category is electrician. So, your title
+
+56:05: tag should be something like electrician Wangui. And if I look at your page
+
+56:11: source, boy, that's a mess. No problem. Then your uh title tag or your H1 tag is
+
+56:19: Yeah. Uh so you also want exact match, primary category, city name in your H1. So this
+
+56:27: is your H1. I would also change that. Um there's no GVP embed. So I would make
+
+56:34: sure that you get a GVP embed. This is basically just a lot of the
+
+56:40: initial checks that we do for the uh a brand new client type website.
+
+56:46: Yeah. Oh, that's weird. Yeah, I did try to do that last night. It wasn't working.
+
+56:54: All right, no problem. I don't know why.
+
+57:05: So, it looks like there's no Oh, man. I'm not going to go through 270. My
+
+57:11: quick check implies that there's uh no schema on this homepage. I don't know
+
+57:17: why this isn't working. Um that is very unusual. A code 200.
+
+57:23: It is indexed at least. So, that's positive. 46. Um but okay, where are we on the heat
+
+57:29: map? All right. So, not awful. Get out of here. Um, we we we got some solid
+
+57:35: ranking right at your address and then it just drops off fairly quickly. So, your top 3% and of course this is
+
+57:42: including a bunch of stuff out in the water. So, I' I'd adjust that obviously and and rerun it, but our top 3% were at
+
+57:49: 22. So, not bad. Um, and my guess is once you make some of the title tag, H1
+
+57:56: changes, make sure there's local business schema, embed the GBP, you might see your top 3% click up into the
+
+58:03: 30 to 40% range just from that. Um, the other thing that I would
+
+58:08: probably do, you have photos coming soon. Uh, so I'd get rid of that, right? We it's not like 1995. We don't need to say
+
+58:16: like under construction on websites. Uh, so we can get rid of that. Um, you know,
+
+58:21: get the damn photos. If you don't have any photos, then generate some with AI. It should take 5 minutes. Uh, you have
+
+58:27: some photos of the company vehicles with logos. Uh, I know there are a bunch of AI tools that you can give those logos,
+
+58:33: company vehicles, and have it generate new images that use those same, uh, logos and everything. Uh, so do that.
+
+58:40: Get some images on there. Um, there's a ton of stuff. So, the so that's
+
+58:45: basically where I'd start. Then I would um do the GBP audit. Uh obviously I I
+
+58:51: didn't do the full GB I didn't really do much of anything in the GBP audit, but do the GBP audit and then run the
+
+58:58: content gap analysis just to get an idea of what type of content should their
+
+59:03: site have versus what it does have and start working your way through that core 30. But keep an eye on your rank map. Um
+
+59:10: because your rank map isn't terrible, right? Um 22% in the top three. Sadly, a
+
+59:16: lot of that is out in the water as I'm looking at the rank map. If I got rid of the water, your percent top three would
+
+59:22: probably be more like three or 4%. Um,
+
+59:28: but you know, your number one competitor is 90% top three. Your number two
+
+59:33: competitor is 92% in the top three. That's kind of funny. They're sorted by average rank by default. So, the number
+
+59:40: two by average rank has a higher percent top three. often when we see like one or
+
+59:45: two businesses just dominating the top three like that, uh that's a sign that the competition is low, right? If if I
+
+59:54: run this rank map and I see there are five businesses and they each have 30% top three, uh then that's typically sign
+
+1:00:01: that the competition is very high. Uh because you have a lot of websites that are fighting over it. This one the
+
+1:00:06: competition looks relatively low just because you have two businesses that are completely dominating. That gives me a
+
+1:00:13: lot of hope that in a few months building out the core 30, fixing the GBP
+
+1:00:18: landing page issues that we talked about, uh, you can make some real significant movement in the average rank
+
+1:00:25: position. Uh, this business, Markeel Electric, I wouldn't because they're in New Zealand, but if they're in the
+
+1:00:30: United States and I ran this rank map, I'd be happy to take them on as a client because I know that uh, it doesn't it
+
+1:00:37: won't take a lot of SEO work to have real results for them. Um, hopefully that was helpful. I didn't do like a
+
+1:00:43: full-on deep dive, but that's that's where I'd start with the broad brush strokes.
+
+1:00:51: Oh, and Karen, it looks froze. So, we'll come back to him maybe in a little bit.
+
+1:00:56: Uh, let's see. Matt asks, "When would you use your SC rejects?" Sorry, you're lagging out.
+
+1:01:02: Yeah. Filters versus AI prompt for authority. So CTR analysis prompt, we
+
+1:01:08: don't really use that for for uh local. Uh it doesn't really do much for local because we're not trying to optimize
+
+1:01:14: CTR. Everything is based on the GBP. I honestly don't know what SC reets
+
+1:01:19: rejects filters means. So I have no idea. Okay. Oh, Muhammad, thank you for clarifying. I was saying, how do you
+
+1:01:26: search for opportunities where you can suggest a client to put money on it for? Oh, there's a prompt in the training for
+
+1:01:32: uh local offsite where you run the prompt, you make sure research mode is ticked on. Uh chat GPT calls it deep
+
+1:01:38: research. You can do it either way. Um and then uh it will basically output a
+
+1:01:45: sorted list of events you can sponsor. Chamber of Commerce is almost always going to be the first event and beyond
+
+1:01:51: that it's just hey, which ones look good? uh which ones are relatively low cost and come from you know so like I I
+
+1:01:57: talked about the TEDex sponsorship that was I think I think it was $250 I can't remember if it's $250 or 500 um but it's
+
+1:02:04: a very high authority.edu edu local university that's that what you would
+
+1:02:09: get the link from that's a very powerful link uh so that's definitely worth it um
+
+1:02:14: okay and lolita yeah I went through the schema fast okay so we do service schema on the category
+
+1:02:22: page for each service right so you have your category and then you on the GBP you're going to list all the services
+
+1:02:27: below that category right so typically on the category page we're also going to
+
+1:02:33: have little paragraphs with 20 30 you know 70 words of content for each one of
+
+1:02:39: those uh paragraphs. Uh so yes we would put schema for the category and then we
+
+1:02:45: put a bunch of nested schema for all the services that are under that category. Those services are also going to be
+
+1:02:51: mentioned on the onpage content itself. Um so yeah hopefully that makes a little
+
+1:02:56: bit more sense. Troy, yes, thank you. I talked about that. You're absolutely right. GBP embed uh there's a Google
+
+1:03:03: support doc for it. uh how to embed GBP on website Google um
+
+1:03:11: here. So anyway, you can do the search that you're looking for support.google
+
+1:03:17: um domain and it's super easy. When you log into a GBP, uh you can just
+
+1:03:22: literally grab an embed code and paste it onto your WordPress site or whatever site as custom code and the GBP will
+
+1:03:29: appear on there. It's awesome. Uh awesome, Matt. Glad you could make it. You probably left already. No problem.
+
+1:03:34: Um Karen, yeah, absolutely. Keep me up to date with it. Uh I'm I'm excited about that client. That one that one
+
+1:03:40: looks really good. Um the only reason I don't take clients outside the United States. I used to and it's always a mess
+
+1:03:47: because I'm sure you you know this Karen uh I've taken clients in the UK uh and
+
+1:03:53: it never works well because when I write local content uh in American English, it
+
+1:04:00: doesn't perform very well on a site based in the United Kingdom. So yeah, um
+
+1:04:07: same thing with the new New Zealand client. So uh we don't take those on. All right, Billy, how you doing, man?
+
+1:04:13: What you got for me? I you got kicked off so you had to come back on. Yeah. Frustrating. Anyway, what you got?
+
+1:04:19: I I actually didn't get kicked off. I had to jump on another call real quick. So, but anyway, I'm back. Uh yeah, I I
+
+1:04:27: maybe I need to buy a Val here. I'm not sure. But, uh is there a separate call to find out what's going on with the
+
+1:04:32: Facebook ads or Oh, the 10K challenge. Yeah. So, and those I did one yesterday. Uh all the
+
+1:04:39: recordings I always post in and they aren't scheduled in advance. I could not think of a way to schedule them advance.
+
+1:04:46: Sometimes it's just like, "Oh man, I got to make some changes to this ad. I said I would do everything live and on
+
+1:04:51: camera, so let me just post in the school group that I'm going to go live and make changes to the ads." Uh, that's
+
+1:04:57: part of my challenge that I don't really know when I need to go when I need to do
+
+1:05:03: things because it's actually running ads like, you know, for real's like it's I'm
+
+1:05:08: not faking anything. So yeah. Yeah. Yeah. Got it. I guess I'm I'm curious as to what's going on with it and how it's progressing and and and
+
+1:05:15: whether you're getting calls and making any money or what's up with it. Yeah. Yeah. Yeah. So, uh real quick
+
+1:05:21: overview. Um we I I have three sales that have come through. The funnel does
+
+1:05:28: not use ads or sorry ads. The funnel does not use any calls. Um so there's
+
+1:05:33: been no calls. I had three sales come through. Uh I had a fairly sizable setup
+
+1:05:39: error that I made on day one. Um I had the Facebook lead form and then
+
+1:05:45: integrated that with high level. But after you do that integration, you then
+
+1:05:50: need to do a form mapping to map the fields from the Facebook lead form. Y
+
+1:05:56: um Highle used to uh not let you use a form that wasn't that wasn't
+
+1:06:04: fieldmapped. Now they do, but if you use a form that isn't fieldmapped, uh, high
+
+1:06:10: level doesn't get any of the contacts. Like just none of them are imported in. Uh, so I did have two sales when that
+
+1:06:16: was going on. And I'm thinking that's probably the issue why those sales weren't tracked properly and high level
+
+1:06:22: because the form fill mapping was broken. Had a third sale come in after
+
+1:06:27: that had happened. Uh, so I was at uh I haven't checked today, but I was at
+
+1:06:32: about $400 in ad spend and the offer is $147 a month. So I had three come in.
+
+1:06:39: That's $441. So money positive and not including fulfillment costs. So that's cool. Um,
+
+1:06:47: but the performance of the the original funnel was either lead form or squeeze
+
+1:06:53: page is step one. Uh, video sales letter step two. Uh, sign up is step three. And
+
+1:06:58: then onboarding is step four. The video sales letter was performing horrible. So
+
+1:07:04: I redid the video sales letter, new script, re-recorded it, put the new one on there. The new one did just as bad.
+
+1:07:11: Uh so I was just like, "All right, let's get rid of the sales letter entirely." So now I'm running a three-step funnel
+
+1:07:17: where squeeze page lead form step one, signup page step two. And I do have like
+
+1:07:23: a 30 second video where it says like, "Hey, I'm Caleb." that is on the signup page, but that's it. Uh, and then, um,
+
+1:07:30: the onboarding is step three. So, a simpler funnel. Um, and I changed the
+
+1:07:36: email follow-up sequence. Now, the email follow-up sequence addresses the primary objections that I think somebody would
+
+1:07:42: have to buy this offer. Uh, I made those changes yesterday, so I don't know. I
+
+1:07:48: don't have enough information to say how all that is going so far. Um, but I need
+
+1:07:53: 69 clients to hit 10K. Uh, today is day 12 and I have three. So, making
+
+1:07:59: progress. Making progress. Um, okay. Yeah. Cool. Cool. So, I'm not sure if that was
+
+1:08:07: my my only question. I had another question, but that was a public service. We won't count that one because you got
+
+1:08:12: me to plug the uh the the the thing I'm doing. Yeah. No, I want to know all about it because I'm I'm so tired doing sales calls. I do
+
+1:08:19: sales calls all the time and I'm just don't want to do them anymore. Sales calls suck.
+
+1:08:24: Yeah. Yeah. Exactly. I'm trying to stop. So, I have a I know Lalita, I think her
+
+1:08:30: name was, she she asked some questions on the linking. And so, I have some questions on the linking to an internal
+
+1:08:36: linking. Okay. So, let's suppose you have a secondary category of house cleaning service. Okay, you with me? And
+
+1:08:43: then under that we have service pages. Porch cleaning, roof cleaning, house
+
+1:08:48: washing, siding cleaning, and we have links from the secondary category page down to the service niche pages. You
+
+1:08:55: with me so far? Right. Okay. Got it. Now, do I also put a link back
+
+1:09:01: on my porch cleaning or my service niche clean putting in, hey, house cleaning, linking back to the house cleaning also?
+
+1:09:08: So, I give them more authority. So, hey, that's a secondary page. Do I link back to that or just link to it and don't
+
+1:09:14: link back? Does that make sense? Gener I think what I think so generally
+
+1:09:19: we'll link up and down. Okay, perfect. That's a that's what I wanted to hear. Link up up and down both
+
+1:09:25: ways. Yep. Perfect. Okay. Yeah. I'm not sure if anyone else had that question, but that's kind of important thing to know.
+
+1:09:31: Thank you. Yeah. Yeah. Yeah. We'll almost always link up and down all the time. Yep. Yep. Got it. Thank you. Perfect.
+
+1:09:37: Awesome. All right. Any other questions? Did I get through all of them in
+
+1:09:44: in that amount of time? No other questions. Anything else? Billy, your hand's still
+
+1:09:49: up. You're the only one. I got lots of questions. I'll keep on going. Okay. So So I I would like to ask another if I
+
+1:09:56: could. Dave, you jump in. I'll go in after you. How's that? Thank you very much. So um so that's an
+
+1:10:03: awesome idea about putting up an agency website. So, my actual background is I'm
+
+1:10:10: a former financial adviser who wrote an article on AI that exploded and I turned it into an AI consulting business for
+
+1:10:17: adviserss. Nice. Um, I'm also a chef. I was known as the financial chef because I was a financial
+
+1:10:23: adviser. I had a mobile office with a kitchen and I would cook for my clients while I was giving them money advice. My
+
+1:10:30: tag my tagline is I I cook everything but the books. Um, I am I am relocating
+
+1:10:36: to Europe. So, uh going to uh uh Madrid, Spain, and I'm setting this up. I'm
+
+1:10:43: currently in Jacksonville. So, I'm a very uh systematic type of person. So,
+
+1:10:49: is there a guide through the website as to like what courses to do? And because
+
+1:10:55: actually going through the SEO course was way advanced for me. My eyes and my a my ADHD was glazed over. So, is there
+
+1:11:04: more of like a processing step to be able to to ease into this? And Richie
+
+1:11:10: has been part of the group that I'm in and he's he's been amazing. Yeah. So, um I mean really we tried to
+
+1:11:18: design the course to be as simple as possible. Um it's really just hey let's
+
+1:11:25: start we'll build the website. Um I mean I guess it's interesting to hear that
+
+1:11:31: feedback. uh if you have you know the feedback that you have on how we can make it better you know let me know uh
+
+1:11:38: okay I'm definitely interested in that of course uh we we often make changes to the to the course and in an effort to
+
+1:11:45: improve it make it better um but I guess you know to just break it down really
+
+1:11:52: when we talk about uh local SEO uh we're
+
+1:11:58: trying to rank the GVP so basically we're going to build a website uh because the GBP is linked to the
+
+1:12:04: website. So the local SEO, the way Google's algorithm works, uh there's three factors that Google's algorithm is
+
+1:12:11: looking at for local SEO. Okay, the first one is proximity. Uh how far away
+
+1:12:17: is the searcher from your business address? Okay, obviously there's nothing
+
+1:12:22: we can do about proximity uh short of uh unmarked vans. Not a good way to try to
+
+1:12:27: grow your business. So, moving on to way number two. And that's why when I pulled
+
+1:12:33: the local rank map up for the electrician in New Zealand, you saw that it was ranked 1 2 3 very, very close and
+
+1:12:40: then it quickly dropped off. That's a very common pattern that we see. Um, and what we're trying to do in local SEO
+
+1:12:47: very simply is turn those one, twos, and threes that are on the address to one, twos, and threes as we get farther and
+
+1:12:53: farther away. Um, that's the goal, right? That's that when we do that, we have success. Is that a
+
+1:13:00: big measure of success? The measure of success is how far away from the GBP address is the rank map
+
+1:13:08: green. That's all we're trying to do. We're trying to turn the rank map green as we get farther and farther away. So,
+
+1:13:13: we know proximity is always going to be against us because we're trying to turn it green far away. So, the other two
+
+1:13:19: factors are relevance and trust. So, relevance I break into two
+
+1:13:24: categories. topical relevance and geographical relevance. So when we talk about topical relevance, basically we're
+
+1:13:31: trying to teach Google, which is just math, we're trying to teach Google's algorithm that you provide that service,
+
+1:13:38: right? That you provide plumbing services, you provide roofing services, you provide electrical services,
+
+1:13:43: whatever it happens to be. And we know that we have topical relevance when we see that you're green close to your GBP
+
+1:13:53: address. So, you've heard me say your top 3%, that's the core metric we watch. What percent of that map is the top
+
+1:13:59: three. When we get that top 3% to 30 to 40%. Which is pretty low, right? That's
+
+1:14:05: that's pretty tight on the GBP to only have 30 to 40%. That means that we have
+
+1:14:10: enough topical relevance. We've taught Google that we're a plumber. And Google is now showing us for people who are
+
+1:14:17: searching for a plumber, even if they're two miles away. So, we have the topical relevance. Google trustworth plumber.
+
+1:14:23: Then we move on to building geographical relevance. And that is showing Google, hey, I do plumbing 10 miles away. I do
+
+1:14:31: plumbing 5 miles away. I do plumbing seven miles away down here. So to do that, we're going to produce specific
+
+1:14:37: content for each one of those dots to try to turn it from a six into a five,
+
+1:14:42: from a five into a four, and then eventually from a four into a three. Uh so that's where we start producing geographical content to make those
+
+1:14:49: specific dots turn green. Uh the third factor that Google looks at is trust and
+
+1:14:56: trust is just a code word. Uh it means how your external links. So when we talk
+
+1:15:02: about joining the chamber of commerce or sponsoring the youth softball league or sponsoring the local TEDex or whatever
+
+1:15:08: it happens to be those types of sponsorships uh give you links back to
+
+1:15:14: your website. Those links Google reads as trust. Hey, you know, David's
+
+1:15:20: website, they're a member of the Chamber of Commerce and they sponsored the nine-year-old girls softball team. Uh,
+
+1:15:25: those are both big things for local business to do. Builds a lot of trust. So, I'm going to rank him farther and
+
+1:15:31: farther away because I trust him more. He has these high authority websites vouching for him in terms of those
+
+1:15:36: links. Uh, so that's fundamentally what we're trying to do. We build enough trust, we build enough topical
+
+1:15:42: relevance, then we build the geographical relevance to turn the whole map green. I don't know. Was that
+
+1:15:47: helpful trying to break it down on that level? That that was amazing. Like that all of a sudden my mind went now I get it right
+
+1:15:54: in understanding that. Um so in building my own agency website um because I'm
+
+1:16:00: transient here would I put like I have a temporary address and I guess I'm I
+
+1:16:06: don't really care. I'm just looking I I I guess I shouldn't care about six
+
+1:16:11: months from now if I'm using this to just teach myself. Correct. any address and any GBP that that I can get myself
+
+1:16:19: listed for. If I'm in a rental apartment for four months, do I do my my Google
+
+1:16:24: business listing there and and then, you know, just try and rank myself and see
+
+1:16:29: what happens to teach myself this? Absolutely. And um remember, right, we I
+
+1:16:36: said that proximity is a significant rank factor. So, the closer your GBP is
+
+1:16:42: to the searchers, the easier it is to rank. Another way to phrase that is the more GBPs you have, the easier it is to
+
+1:16:49: rank because if you have five GBPs all around the city, suddenly your proximity is much lower. So if you have a
+
+1:16:56: temporary uh rental, temporary place you're staying and you can get a verified GBP there, there's a whole
+
+1:17:03: course in the a whole separate classroom of how to get a verified GBP. Man,
+
+1:17:08: that's awesome. Do it. Get the GBP verified. If you leave that place in in a month, 2 months, 3 months, whatever,
+
+1:17:15: no problem. Don't tell Google, "Keep the GBP open." At some point, one of your
+
+1:17:20: competitors will probably complain that you don't actually have a location
+
+1:17:25: there, and that GBP will likely get suspended. And at that point, you you
+
+1:17:31: might have to actually get an office space or rent another apartment or something else to get that GBP
+
+1:17:36: reverified, get that suspension lifted. Uh, but until that happens, man, GBPs
+
+1:17:42: are good. Get GBPs. Uh, the I see no problem with GBP overlap, Jay. I mean,
+
+1:17:48: why would I care if if I have two GBPs and they're overlapping, who cares? The one closer to the searcher is the one
+
+1:17:53: that's going to rank higher. It makes tracking the local rank maps harder, but I mean, I'm not going to complain about
+
+1:17:59: that, right? That's what we do as an SEO agency. Um, yeah. Is that helpful with the GBPs?
+
+1:18:06: Yes. Thank you very much. I'm happy to be part of the group. Awesome. Great having you, David. Uh,
+
+1:18:11: Google says, "What's illegal?" GBP overlap. You can speak. You can unmute yourself, Jay. Uh,
+
+1:18:22: say it again. Sorry. Uh, yeah, the G the GBP overlap.
+
+1:18:28: I was reading that they'll suspend you if it if you have two GBPs that are close enough to overlap in your area.
+
+1:18:36: Yeah. So that's if the uh service area overlaps and the service area is this
+
+1:18:43: little box on the GBP that doesn't really mean anything if that makes sense. No.
+
+1:18:50: So when you fill out your GBP, one of the boxes in the GBP is what your
+
+1:18:55: service uh what your service area is. So you can just fill it out so that they each have separate service areas.
+
+1:19:02: Okay. So it does you do have to worry about overlap there. just on the GBP.
+
+1:19:08: Yeah. And I wouldn't worry about Now, it it does also say that you're not allowed to have duplicate listings and blah blah
+
+1:19:13: blah. So, we're not really doing duplicate listings. We'd call it a multilocation business.
+
+1:19:19: Yeah. And you were mentioning external links
+
+1:19:25: that link back like the Chamber of Commerce. Do those have to be the Chamber of
+
+1:19:33: Commerce links back into you, the external links back to you? Do they have to be follow or
+
+1:19:40: because all my chambers around here do not have follow. They're all no follow.
+
+1:19:45: Oh, that's weird. Um, so usually, uh, we'll check that and if it's a no follow
+
+1:19:52: link, I'm less excited about joining, uh, because it's going to be less impactful. It's still going to be
+
+1:19:58: impactful. It's still going to be good, but less than a do follow.
+
+1:20:06: And then I don't hear Billy jumping in. So, I'm gonna ask another one until Billy does jump in. Billy, you got anything,
+
+1:20:12: man? I'm jumping. Go ahead and do one more. I'm here to jump. Keep going, Jay. One more.
+
+1:20:19: Okay. I tried to GBP my home for a home
+
+1:20:25: office. And I'm just now reading in the whatever it is on Google that they will
+
+1:20:33: not allow home offices anymore to be on a on a it has to be a service area
+
+1:20:39: business only. Have you heard anything about that? No. I mean they they allow GBPs to be
+
+1:20:46: verified at a primary residence. Yeah. According to Google, they're not now because I I can't get mine to be
+
+1:20:53: I've been trying for four weeks now and I still can't get them to verify it.
+
+1:21:00: I haven't seen anything. I mean, even looking at now, so it's saying that the correct way to do it is a service area
+
+1:21:05: business, but you don't need to choose service area business. I would probably uh ask what your
+
+1:21:13: GBP verification video looks like. you might be having trouble getting it verified because of issues with the verification video. I mean, this was as
+
+1:21:20: recently as a few months ago that we were verifying GBPs at primary residences. Uh, don't do a service area
+
+1:21:27: business. You can't rank service area businesses. I wasn't a very hard service if I had
+
+1:21:33: to. Thank you, Billy. No problem. So, so I question on the
+
+1:21:39: FAQs and and if I got it right, you're only doing FAQs for onethird of your
+
+1:21:45: pages. How do you determine what those one-third pages are? For example, you do it for the main page. I imagine you're
+
+1:21:51: doing with FAQs for your secondary category pages, but yeah, so we'll do it for the the primary pages that are part of the core 30 and
+
+1:21:58: then beyond that, just based on what um Got it. what the what the rank map shows.
+
+1:22:05: That's what I mean. So all my all my uh uh core 30 pages should have FAQs. Is
+
+1:22:10: that right? Most of them. But when so and when I say the the primary core 30, I'm really
+
+1:22:16: talking about the primary and secondary category pages and then a couple of service pages that you really really
+
+1:22:21: care about. Got it. Okay. So So uh I guess I'm trying to figure out why wouldn't you
+
+1:22:28: just put FAQs on everything? If that helps you with chat GPT and it helps you with AI overview and all the other
+
+1:22:35: stuff, why wouldn't you just do that? I mean, I'm I'm just curious. Yeah, because
+
+1:22:41: um so just because I don't want every
+
+1:22:47: single page on the domain to look the same. Got it. Okay. Right. I just want some var variability
+
+1:22:54: in in what I have. Okay. Got it. So you'll put on some
+
+1:23:00: service categories, uh, all the secondary C, all the secondary, the primaries, and then mix it up.
+
+1:23:07: Exactly. Cool. Okay. Thanks, Carlin. You're up.
+
+1:23:14: Um, I posted my question um in the chat.
+
+1:23:20: Oh, in the chat. Oh, there we go. Um, oh, uh, so I only
+
+1:23:28: have four minutes until I got to go. Uh, but we can we can see what we can get done in four minutes. Let's let's bang
+
+1:23:34: it out. Um, his, uh, GBP is ranking really well for
+
+1:23:40: a big part of Fort Wayne, but I want to expand it to a different part of Fort
+
+1:23:45: Wayne. Okay. So often with stuff like that to
+
+1:23:52: expand to a different uh city or region, we are often going to need a new GBP.
+
+1:24:01: And he is in is he in Fort Wayne, Indiana? Did you say Fort Wayne? He's His address is um Greyel, Indiana,
+
+1:24:11: which is like a small suburb outside of Fort Wayne, Indiana.
+
+1:24:19: Good vibes ebike tours. What the Can't find. What's the city name again?
+
+1:24:25: Uh, Greyel. G R A B I L L.
+
+1:24:30: Greyel, Indiana.
+
+1:24:36: There we go. Top one. There we go.
+
+1:24:45: So here I'm doing the near me search on purpose because you said your goal is to rank in Fort Wayne. So if I did a
+
+1:24:51: concrete contractor Greyel, you wouldn't rank in Fort Wayne at all.
+
+1:24:56: And boy, Fort Wayne is far. So this map isn't even going to show Fort Wayne. So
+
+1:25:02: you're trying to rank him all the way down in Fort Wayne, huh? I he's already like half of Fort Wayne
+
+1:25:10: or or a big chunk of Fort Wayne. I've already got him there. Um but I want to kind of expand towards Brierwood Hills
+
+1:25:16: and if I if it's possible. You're getting really far away. So I
+
+1:25:21: don't know how competitive Fort Wayne is. Uh I'm surprised you're able to rank all the way that far out anyway. Uh if
+
+1:25:28: he had asked, "Hey, I want to rank in Fort Wayne." I would probably say, "Get yourself a GBP in Fort Wayne and then
+
+1:25:33: let's talk. like the farther away you get and the
+
+1:25:38: most common issue is that they're in a small suburb and they want to rank in a major city. That just gets really hard
+
+1:25:46: uh as it gets farther and farther away. Um yeah.
+
+1:25:51: So you'd recommend a multi- location business then generally for that for that. Now, if
+
+1:25:58: you're already ranking really well in Fort Wayne and you have a couple of spots that are like fours and fives that
+
+1:26:03: you're trying to turn, then I would probably just do geographic based content there and see maybe you can get them to turn. Uh that would just be a
+
+1:26:09: sign that there aren't very many concrete contractors in that area. Uh but as soon as there's more concrete
+
+1:26:15: contractors that Google can find, I mean, if you're 25 miles away or end in
+
+1:26:21: a different city, it's just gets very difficult to outrank them. Okay. It's um the area I'm trying to
+
+1:26:28: rank for is more of the or there's a lot of wellto-do homeowners down there, which is why um I'm trying. So, okay.
+
+1:26:35: Thanks for the help. Yeah, sure. All right. Uh let's see, couple more quick ones. Alita asked,
+
+1:26:40: "What does it mean no follow?" So, a no follow means that you don't get any SEO authority from the link, and a follow
+
+1:26:47: link means you do get SEO authority. So, I wouldn't worry about it too much. You
+
+1:26:53: can see it if you look at the source code of the website or if you have a plug-in installed that shows you. Uh
+
+1:26:59: I'll often join a chamber of commerce even if it is no follow just because the chamber link is just that powerful. Um
+
+1:27:07: so yeah um hopefully that makes sense. Um and 230 Tim hope you have a quick
+
+1:27:14: one. What you got Tim?
+
+1:27:20: Can you hear me? Yeah, Tim, you uh just just Okay, you see the house
+
+1:27:25: cleaning. I put it over in the uh chat. I see it. So, those are packages they offer. Would
+
+1:27:31: I want to have those keywords directly connected underneath the package or
+
+1:27:37: directly to the house cleaning services category? Sorry, I'm having trouble hearing you.
+
+1:27:44: Volume up. Yes.
+
+1:27:54: What? What? Can you say it again?
+
+1:27:59: All right. Well, that's good for that then. Um, all right. Well, thank you very much for coming, everyone. As
+
+1:28:06: always, we are here next Tuesday. Uh, that will be 16th. Uh, thank you very
+
+1:28:13: much for coming. Hopefully, we'll see you next Tuesday. In the interim, feel free post in the school group. Uh send
+
+1:28:19: me a message and keep your eyes on the school community. As I told Billy, I
+
+1:28:24: will uh often be going live in the next couple of weeks with very short notice to do some work on the 10K challenge
+
+1:28:31: stuff. Um so yeah, thank you very much everyone and we'll talk soon.
+
+1:28:37: Take care.
