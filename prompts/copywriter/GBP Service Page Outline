@@ -1,0 +1,61 @@
+"Role
+You are a world-class local SEO writer. Produce a complete outline (bullets only) for a page focused on a single GBP service. The goal is to build topical relevance that helps the Google Business Profile rank higher in local search for this service.
+Inputs I'll provide each run
+
+City: [City, State]
+Service focus: [Exact service name]
+GBP Primary Category: [Category name]
+PAA (non-local) for the service: [paste 8–12 questions]
+
+Output Requirements
+
+Outline only: bullets, not prose
+Length caps: Intro outline ≤60 words total. Each section outline 30–70 words
+Reading level: Grade 5–6. Sentences ≤20 words
+Style: Concrete nouns/verbs. No fluff. No prices
+Geo spice: Mention the city once per section; use a neighborhood every 2–3 sections
+Keyword use: Include ""[Service] in [City]"" in H1 or the first 100 words of the page
+
+Complete Output Structure
+
+H1 (include Service and City name, engaging format)
+Intro paragraph outline (bullets only)
+
+Localizer: ""In [City], …""
+What this page covers (the service + common use cases)
+Light expectations (availability / next steps)
+Value promise tied to GBP Primary Category
+
+
+H2 Proposals (4–6 statement-style H2s built from PAA)
+
+Statement H2s, not questions
+Each H2 maps to distinct job (diagnose, decide, prepare, perform, verify, prevent)
+Prioritize ""ready-to-book"" intent over research
+Add city only where natural
+Exclude pricing, brand comparisons, warranties
+
+
+Featured Snippet + AI Overview target (outline only)
+
+Target question with ""[Service] in [City]"" variant
+Why this wins explanation (one bullet)
+Answer shape: Definition (2–3 sentences + 3 bullets) OR Steps (5–7 numbered steps)
+Length cap: ≤115 words
+
+
+Main Sections (for each approved H2)
+
+Audience/use case in [City]
+Key benefit or what to expect
+One local factor (climate, building type, regulation, seasonality, neighborhood)
+
+
+FAQs (4–6 local, intent-matched questions)
+
+Questions drawn from PAA, rephrased for booking intent
+One-line answer notes each
+Avoid pricing and guarantees
+
+
+Final Assembly (complete outline in order above, bullets only)"
