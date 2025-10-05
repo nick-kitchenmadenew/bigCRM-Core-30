@@ -1,0 +1,151 @@
+When to Add Supporting Content
+Supporting content is created after the Core 30 is built to boost topical relevance when a service page isn't ranking well. You determine the need by checking your rank maps - if a service is still red/yellow, you need more topical authority.
+Supporting Content Linking Structure
+✅ YES - You CAN cross-link supporting pages laterally
+Here's the proper structure:
+Service Page (Money Page)
+├─ Supporting Article 1 ←→ Supporting Article 2
+├─ Supporting Article 2 ←→ Supporting Article 3  
+└─ Supporting Article 3 ←→ Supporting Article 1
+The linking rules:
+
+Service page links DOWN to supporting content (with 70-100 words of context under an H2)
+Supporting content links BACK UP to the service page it supports
+Supporting pages at the same level CAN link to each other horizontally/laterally
+All links should be plain text, editorial links surrounded by relevant content
+
+Example Implementation
+Let's say you have a "Leaky Faucet Repair" service page that's not ranking:
+On the Service Page:
+
+Add an H2: "Common Causes of Leaky Faucets"
+Write 70-100 words
+Link to Supporting Article 1: "Why Your Faucet Won't Stop Dripping"
+
+Supporting Article 1:
+
+Links back up to "Leaky Faucet Repair" service page
+Can link laterally to Supporting Article 2 about "How to Identify Faucet Types"
+
+Supporting Article 2:
+
+Links back up to "Leaky Faucet Repair" service page
+Can link back to Supporting Article 1
+
+How Much Supporting Content?
+
+Typical volume: 4-8 articles per month per client
+Start with Core 30 first, then add supporting content based on rank map needs
+Supporting content can be blog posts or pages (doesn't matter)
+Each supporting article typically gets a PBN link ($31) for validation signals
+
+Key Point
+Supporting content often ranks for longtail keywords on its own, which is fine. But by linking it properly to your money page, you're building topical authority signals that help the main service page rank better.
+
+Here's an example of a complete structure with supporting content added:
+
+Homepage (Kitchen Remodeling City)
+│
+├─ Cabinet Maker (Category Silo)
+│  │
+│  ├─ Cabinet Refacing
+│  │  │
+│  │  └─ SUPPORTING CONTENT (if not ranking):
+│  │     ├─ "Cabinet Refacing Cost Guide [City]" ←→
+│  │     ├─ "Cabinet Refacing vs Replacement: Which is Right?" ←→
+│  │     ├─ "How Long Does Cabinet Refacing Last?" ←→
+│  │     ├─ "Best Materials for Cabinet Refacing" ←→
+│  │     └─ "Cabinet Refacing Process: What to Expect"
+│  │        ↑ All link back to Cabinet Refacing page
+│  │        ↔ All can cross-link to each other
+│  │
+│  ├─ Cabinet Refinishing
+│  │  │
+│  │  └─ SUPPORTING CONTENT (if not ranking):
+│  │     ├─ "Cabinet Refinishing vs Painting: Key Differences" ←→
+│  │     ├─ "How to Prepare Cabinets for Refinishing" ←→
+│  │     ├─ "Best Stain Colors for Kitchen Cabinets" ←→
+│  │     └─ "Cabinet Refinishing Timeline and Process"
+│  │        ↑ All link back to Cabinet Refinishing page
+│  │        ↔ All can cross-link to each other
+│  │
+│  └─ Cabinet Painting
+│     │
+│     └─ SUPPORTING CONTENT (if not ranking):
+│        ├─ "Best Paint Types for Kitchen Cabinets" ←→
+│        ├─ "Cabinet Painting Mistakes to Avoid" ←→
+│        ├─ "How to Choose the Right Cabinet Paint Color" ←→
+│        └─ "Professional vs DIY Cabinet Painting"
+│           ↑ All link back to Cabinet Painting page
+│           ↔ All can cross-link to each other
+│
+├─ Painter (Category Silo)
+│  │
+│  └─ [Painting Services]
+│     │
+│     └─ SUPPORTING CONTENT (if not ranking):
+│        ├─ "Interior Painting Tips for [City] Homes" ←→
+│        ├─ "How Weather Affects Exterior Painting in [City]" ←→
+│        └─ "Choosing Paint Finishes for Different Rooms"
+│           ↑ All link back to Painting Services page
+│           ↔ All can cross-link to each other
+│
+└─ Kitchen Remodeler (Category Silo)
+   │
+   ├─ Countertop Installation
+   │  │
+   │  └─ SUPPORTING CONTENT (if not ranking):
+   │     ├─ "Quartz vs Granite Countertops: Complete Comparison" ←→
+   │     ├─ "Countertop Installation Timeline [City]" ←→
+   │     ├─ "How to Measure Your Kitchen for New Countertops" ←→
+   │     ├─ "Most Durable Countertop Materials for Busy Kitchens" ←→
+   │     └─ "Countertop Edge Profiles: Choosing the Right Style"
+   │        ↑ All link back to Countertop Installation page
+   │        ↔ All can cross-link to each other
+   │
+   └─ Countertop Replacement
+      │
+      └─ SUPPORTING CONTENT (if not ranking):
+         ├─ "Signs You Need Countertop Replacement" ←→
+         ├─ "Countertop Replacement Cost Breakdown [City]" ←→
+         ├─ "Can You Replace Countertops Without Replacing Cabinets?" ←→
+         └─ "How to Dispose of Old Countertops Properly"
+            ↑ All link back to Countertop Replacement page
+            ↔ All can cross-link to each other
+Linking Legend:
+↑ = Links UP to parent service page (required)
+↔ = Can link LATERALLY to sibling supporting articles (optional but recommended)
+│ = Hierarchical relationship
+└─ = Child page under parent
+Implementation Rules:
+On Service Pages (Money Pages):
+Add H2 sections like:
+H2: "Understanding Cabinet Refacing Costs"
+[70-100 words about costs]
+Link to: "Cabinet Refacing Cost Guide [City]"
+
+H2: "Cabinet Refacing vs Complete Replacement"  
+[70-100 words comparing options]
+Link to: "Cabinet Refacing vs Replacement: Which is Right?"
+On Supporting Articles:
+
+Each article: 1,000-1,500 words
+Include 2-3 external authority links (Forbes, Harvard, etc.)
+ONE contextual link back to parent service page
+1-2 lateral links to related supporting articles
+Gets 1 PBN link ($31)
+
+Production Schedule:
+Month 1: Build Core 30 (8 pages shown above)
+Month 2+: Check rank maps, add 4-8 supporting articles/month to weak pages
+Example: If "Cabinet Refacing" is only 30% green on rank map:
+
+Add 2 supporting articles per week for 4 weeks = 8 articles
+Check rank map again after 30 days
+Continue until page hits 60-70% green
+
+Critical DON'Ts:
+❌ Never link Cabinet Maker supporting content to Painter supporting content
+❌ Never link Countertop supporting content to Cabinet supporting content
+❌ Keep silos completely separate - no cross-category linking
+This structure maintains topical silos while building massive authority for individual service pages that need ranking help.

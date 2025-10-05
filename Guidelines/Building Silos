@@ -1,44 +1,44 @@
-## Core 30 Content Silo Structure
 
-The Core 30 creates topical relevance by mirroring your **Google Business Profile (GBP)** structure on your website. Here's the framework:
+Core 30 Content Silo Structure
 
-### **The 3-Level Hierarchy**
+The Core 30 creates topical relevance by mirroring your Google Business Profile (GBP) structure on your website. Here's the framework:
+The 3-Level Hierarchy
+Level 1: Homepage
 
-**Level 1: Homepage**
-- Targets: [Primary Category] + [City]
-- Contains H2 sections for each category (60-80 words each)
-- Links down to category pages
-- May highlight 1-2 critical services (must be relevant to primary category)
+Targets: [Primary Category] + [City]
+Contains H2 sections for each category (60-80 words each)
+Links down to category pages
+May highlight 1-2 critical services (must be relevant to primary category)
 
-**Level 2: Category Pages**
-- One page per GBP category (1,500+ words each)
-- These become the "pillar" pages of each silo
-- Contains H2 sections for services underneath that category
-- Each service gets 70-100 words + link to its service page
+Level 2: Category Pages
 
-**Level 3: Service Pages**
-- One page per service listed in GBP (1,500+ words each)
-- These are nested under their parent category
-- Link back up to their category page
+One page per GBP category (1,500+ words each)
+These become the "pillar" pages of each silo
+Contains H2 sections for services underneath that category
+Each service gets 70-100 words + link to its service page
 
-### **Critical Silo Rules**
+Level 3: Service Pages
 
-**❌ NEVER link across silos** - Even if services seem related (like "plastic surgeon" and "cosmetic surgeon"), keep them separate. This siloed structure builds powerful topical relevance.
+One page per service listed in GBP (1,500+ words each)
+These are nested under their parent category
+Link back up to their category page
 
-**✅ Proper internal linking:**
-- Use plain text links (not buttons)
-- Surround links with 70-100 words of content about the page you're linking to
-- Place links in context under relevant H2 headers
+Critical Silo Rules
+❌ NEVER link across silos - Even if services seem related (like "plastic surgeon" and "cosmetic surgeon"), keep them separate. This siloed structure builds powerful topical relevance.
+✅ Proper internal linking:
 
-### **Geographic Content**
+Use plain text links (not buttons)
+Surround links with 70-100 words of content about the page you're linking to
+Place links in context under relevant H2 headers
 
+Geographic Content
 Geographic pages (for different neighborhoods/cities) live in their own separate silo:
-- Usually built around the primary category
-- Each location gets its own silo structure
-- Won't necessarily need all 30 pages per location - check rank maps to see what's needed
 
-### **Example Structure**
-```
+Usually built around the primary category
+Each location gets its own silo structure
+Won't necessarily need all 30 pages per location - check rank maps to see what's needed
+
+Example Structure
 Homepage (Kitchen Remodeling City)
 ├─ Cabinet Maker (Category Silo)
 │  ├─ Cabinet Refacing
@@ -49,6 +49,6 @@ Homepage (Kitchen Remodeling City)
 └─ Kitchen Remodeler (Category Silo)
    ├─ Countertop Installation
    └─ Countertop Replacement
-```
-
 The beauty of this structure is that it builds topical authority systematically - Google learns to trust your domain for your primary category and related services.
+Would you like me to help you map out the specific silo structure for your business?
+
